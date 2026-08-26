@@ -31,7 +31,7 @@ curl -s https://vankastor.github.io/sport-verticals-db/videos.json | jq '.[] | s
 | Колонка | Значения | Описание |
 |---|---|---|
 | `id` | число | Уникальный номер записи |
-| `sport` | football / hockey / tennis / basketball / cs / boxing / mma / muaythai | Вид спорта |
+| `sport` | football / hockey / tennis / basketball / cs / boxing / mma / muaythai / dota2 / lol / valorant | Вид спорта |
 | `subject_type` | team / player / generic | Что в центре: команда, игрок или общий момент |
 | `subject` | текст | Название команды или имя игрока |
 | `style` | celebration, action, goal, skills, dunk, entrance, emotion, slowmo, knockout, punch, highlights (через `;`) | Тип момента |
@@ -77,6 +77,11 @@ grep ',hockey,' videos.csv | grep ',official,'
 - **Единоборства** (boxing/mma/muaythai) — индивидуальные: `subject` = боец или пара «X vs Y».
   Хайлайты часто с графикой/логотипами промоушена; `official` = каналы промоушенов/бойцов
   (UFC/PBC/ONE/Team Pacquiao), slo-mo — приоритет. Все записи — реальные проф-бойцы/бои.
+- **Киберспорт** (dota2/lol/valorant) — берём НЕ голый геймплей, а ЭМОЦИЮ: реакции игроков/зала,
+  слёзы, подъём трофея, празднования, клатч-камбэки (камера на людей). HUD/оверлеи турнира почти
+  всегда в кадре — это ОК для эмоционального референса; `official` = каналы турниров
+  (PGL/LoL Esports/VALORANT Champions Tour). Все записи — реальные проф-игроки/команды/турниры
+  (TI, Worlds, VCT). **Counter-Strike** (`cs`) вынесен отдельным видом — эти 11 записей его не касаются.
 
 ## Пополнение
 
