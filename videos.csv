@@ -1,222 +1,229 @@
-id,sport,subject_type,subject,style,source_type,verified,title,channel,url
-1,football,player,Mbappe,goal;slowmo,official,eye,"Mbappe's goal looks better in slow motion","FIFA",https://youtube.com/shorts/qmycqcrLazI
-2,football,team,Chelsea,goal,official,meta,"Cole Palmer's Moment of Brilliance","Premier League",https://youtube.com/shorts/dXlvlQO9Cfg
-3,football,team,Man City,skills,official,meta,"Doku gone in a flash","Man City",https://youtube.com/shorts/GLuvR62RCYU
-4,football,team,Brighton,goal,official,meta,"Joao Pedro Scores After 31 Seconds","Premier League",https://youtube.com/shorts/r1L7b66ogWM
-5,football,team,AFC Bournemouth,goal;slowmo,official,meta,"This slow-mo for Solanke's goal","AFC Bournemouth",https://youtube.com/shorts/lJVop_KD0sA
-6,football,team,Man City,skills;slowmo,broadcaster,meta,"Savinho's silky assist in SLOW-MO","SuperSport",https://youtube.com/shorts/RGZPGei3veE
-7,football,team,PSG,goal;slowmo,fan,meta,"Fabian Ruiz's Goal vs Arsenal Ultra Slow Motion","Trafootic",https://youtube.com/shorts/gPQThYimyEU
-8,football,generic,goalkeeper,action;slowmo,broadcaster,meta,"The best goalkeeper save in slow motion","ESPN FC",https://youtube.com/shorts/hCdh3es89fI
-9,football,team,Man City,action,official,meta,"When the crossbar saves you but you score an own goal","Premier League",https://youtube.com/shorts/unPFe0gij58
-10,football,team,Real Madrid,skills;slowmo,fan,meta,"Slowmo Vini Jr on the Break","Football Trailblazers",https://youtube.com/shorts/f9MJrnus4cU
-11,football,team,Arsenal,skills;slowmo,fan,meta,"The genius Bukayo Saka in slow motion","Arsenal football club news",https://youtube.com/shorts/nHBHbvMke-Q
-12,football,team,Barcelona,skills,official,meta,"Simply, Lamine Yamal","FC Barcelona",https://youtube.com/shorts/ZZMAPnX7I3Y
-13,football,team,Arsenal,celebration,official,meta,"ICONIC Arsenal goals celebrated in style","Arsenal",https://youtube.com/shorts/oAWFyNKY6gA
-14,football,team,Arsenal,goal;slowmo,official,meta,"Gabriel's goal in slow motion","Arsenal",https://youtube.com/shorts/TdVoLPfLjCI
-15,football,generic,Wembley,celebration;slowmo,official,meta,"Goal and celebration in slow mo is pure art","Wembley Stadium",https://youtube.com/shorts/02V7MmYyyao
-16,football,team,Liverpool,goal;slowmo,broadcaster,meta,"The perfect slow-mo angle of Saka's stunner v Liverpool","NBC Sports",https://youtube.com/shorts/VDqRaOANkUo
-17,football,team,Bayern,skills;slowmo,fan,meta,"Musiala in slow motion","athleticIshe",https://youtube.com/shorts/MGVmVUuSwlo
-18,football,team,Bayern,goal;slowmo,fan,meta,"Champions in slow motion","footy burst",https://youtube.com/shorts/Vgs9y6bb5jQ
-19,hockey,team,Neftekhimik,slowmo,official,meta,"Хоккей в slow-mo - это отдельный вид искусства","ХК Нефтехимик",https://youtube.com/shorts/32tpeXMLeew
-20,hockey,team,KHL,slowmo,official,meta,"Ну что я ещё могу (Радулов/Шалунов)","КХЛ",https://youtube.com/shorts/NmctTB6cwp8
-21,hockey,team,Ak Bars,action,official,meta,"Лучший пас сезона","Ak Bars",https://youtube.com/shorts/OTCtIbDr4IA
-22,hockey,team,Torpedo (ZhHL),skills,official,meta,"Немного красоты от Торпедо","ЖХЛ",https://youtube.com/shorts/Vf3kgCKDleI
-23,hockey,team,NHL,slowmo,official,meta,"Snipes in Slow Motion","NHL",https://youtube.com/shorts/oh6C94pdENA
-24,hockey,team,CHL,goal;slowmo,official,meta,"It's all about the drama","Champions Hockey League",https://youtube.com/shorts/Sj1jhHDXO0c
-25,hockey,team,HC Lugano,action;slowmo,official,meta,"Goalie was watching the finish in slow motion","National League",https://youtube.com/shorts/pgzSTUJk2Mk
-26,hockey,team,CHL,goal;slowmo,official,meta,"So many goals between these two","Champions Hockey League",https://youtube.com/shorts/XzwljO8_nTg
-27,hockey,team,KHL,action,fan,meta,"Unreal Hockey Deflection","KHL Highlights",https://youtube.com/shorts/ubIsu1V1xuc
-28,hockey,team,Avangard,action,fan,meta,"Проскуряков зарешал момент и спасение","Sergey Kolesov",https://youtube.com/shorts/N_fEqzm49t4
-29,hockey,team,Admiral,goal,fan,meta,"Гол в пустые ворота (Адмирал/Автомобилист)","Epic Gold",https://youtube.com/shorts/f51mzq3P5AY
-30,hockey,player,Connor Bedard,slowmo,fan,meta,"Connor Bedard is a beauty in slow mo","eyesHOCKEYspot",https://youtube.com/shorts/y9bMKdE0Tno
-31,tennis,player,Alcaraz,skills,official,meta,"Alcaraz with pure skill","Roland-Garros",https://youtube.com/shorts/BMtpAuH8H8M
-32,tennis,player,Shapovalov,action,broadcaster,meta,"Amazing Denis Shapovalov Jump Backhand Slow Mo","Tennis TV",https://youtube.com/shorts/beZNZQhvwBw
-33,tennis,player,Coco Gauff,celebration;slowmo,fan,meta,"Coco Gauff winning the Cincinnati Open in slow motion","Tennis Updates",https://youtube.com/shorts/Rab-V23cXhs
-34,tennis,player,Dimitrov,action,fan,meta,"Grigor Dimitrov Slow Motion Return Roland Garros 2022","DanTenn3000",https://youtube.com/shorts/KiGjQF0lB9A
-35,tennis,player,Anisimova,action,fan,meta,"Amanda Anisimova serve slow-mo US Open 2021","Grounds Pass Tennis",https://youtube.com/shorts/NwP_tF58qNw
-36,tennis,player,Zheng Qinwen,action,fan,meta,"Zheng Qinwen Serve Slow Motion","Nancy Lee Tennis",https://youtube.com/shorts/h3IN-MN9nBk
-37,tennis,player,Sinner,action;slowmo,broadcaster,meta,"Slow Motion Sinner Serve","Tennis TV",https://youtube.com/shorts/Ee63gpG-v5c
-38,tennis,player,Swiatek,action;slowmo,fan,meta,"Iga Swiatek Forehand Return Slow-Motion","Hit With Me - Tennis Media",https://youtube.com/shorts/PLVcii2Lguw
-39,tennis,player,Djokovic,action;slowmo,fan,meta,"Novak Djokovic Service In Slow Motion Miami 2025","Coach Paul Tennis Fit",https://youtube.com/shorts/jHcXQDu7z2o
-40,tennis,player,Federer,action;slowmo,fan,meta,"Roger Federer serve in slow motion ATP Finals","Tennis Ace",https://youtube.com/shorts/KgDZc5eSIWA
-41,tennis,player,Medvedev,action;slowmo,fan,meta,"Medvedev kick serve in slow motion Indian Wells","Jim Fawcette",https://youtube.com/shorts/1vz2RsxWqSo
-42,tennis,player,Rybakina,action;slowmo,fan,meta,"Amazing Rybakina slow motion backhands","TennisAcademy101",https://youtube.com/shorts/wsh_nNXbQ7E
-43,basketball,team,EuroLeague,action,official,meta,"Mike James scores 3-points","EUROLEAGUE BASKETBALL",https://youtube.com/shorts/IEjT91NfZ8w
-44,basketball,team,EuroLeague Women,action,official,meta,"ICE COLD","EuroLeague Women",https://youtube.com/shorts/uiDGAmMNVtg
-45,basketball,team,EuroLeague Women,action,official,meta,"No look dime","EuroLeague Women",https://youtube.com/shorts/kQPqPl-0-h8
-46,basketball,team,EuroLeague Women,action,official,meta,"Sloot doing Sloot things","EuroLeague Women",https://youtube.com/shorts/mCRHlqx1aQ8
-47,basketball,team,Memphis Grizzlies,slowmo,fan,meta,"Ja Morant Slow Motion vs Brooklyn Nets","BasketballCrew92",https://youtube.com/shorts/ZVzexyngRrI
-48,basketball,team,Zalgiris,dunk,fan,meta,"Put-back Dunk Shocks Zalgiris","BasketHead",https://youtube.com/shorts/6hRcSqsZU3g
-49,basketball,team,San Antonio Spurs,skills,fan,meta,"Wemby in Slow Mo","NBA Highlight Reels",https://youtube.com/shorts/YkKIvE70fc4
-50,basketball,team,Indiana Pacers,dunk,fan,meta,"Nesmith's Poster JAM in Slow Motion","Your YHANiverse",https://youtube.com/shorts/OVkCxNNMKp8
-51,basketball,team,Los Angeles Lakers,dunk;slowmo,fan,meta,"Lakers LeBron James Slow Motion Dunk","DBA",https://youtube.com/shorts/V7Q5SYwh3GU
-52,basketball,team,Golden State Warriors,action;slowmo,fan,meta,"Curry's Buzzer Beater in SLO-MO","Your YHANiverse",https://youtube.com/shorts/DnSWl6eHP70
-53,basketball,team,Boston Celtics,action;slowmo,fan,meta,"Slow Mo Game 2 Celtics vs Dallas finals","SportsLyte",https://youtube.com/shorts/FZQIAy2mBkk
-54,basketball,team,Boston Celtics,action;slowmo,fan,meta,"Jayson Tatum game winner on Giannis in slow motion","Legendary Amazing",https://youtube.com/shorts/uLFwLkxqIDw
-55,cs,team,G2,action,official,meta,"FIRST ACE of the tournament by r1nkle (G2)","BLAST Premier",https://youtube.com/shorts/z2BkhcXNluU
-56,cs,team,Spirit,action,official,meta,"sh1ro Wins a Crucial 1v2 Clutch","BLAST Premier CS2 Highlights",https://youtube.com/shorts/o_JSwP6617I
-57,cs,team,Falcons,action,official,meta,"ztr clutches a 1v2","ESL Counter-Strike Highlights",https://youtube.com/shorts/frFMJEgGg24
-58,cs,team,G2,action,official,meta,"m0NESY's filthy double with a wallbang noscope","ESL Counter-Strike Highlights",https://youtube.com/shorts/35FmGFRU14w
-59,cs,team,G2,action,official,meta,"r1nkle Does the Impossible with a Beautiful AWP Triple","BLAST Premier CS2 Highlights",https://youtube.com/shorts/vTUx-oOi9MA
-60,cs,team,Spirit,action,fan,meta,"donk INSANE 1v5 ACE vs HEROIC Shanghai Major 2024","ND Highlights",https://youtube.com/shorts/VWT18aYH8OY
-61,cs,team,G2,action,official,meta,"Famas in Hand r1nkle Takes the Entire Team","BLAST Premier CS2 Highlights",https://youtube.com/shorts/DHNKcGttBB8
-62,cs,team,MOUZ,action,official,meta,"MATYS Turns a Knife Kill into Free Money","BLAST Premier CS2 Highlights",https://youtube.com/shorts/78ikxm2JX50
-63,cs,team,Astralis,action,fan,meta,"Astralis vs Team Falcons BLAST Premier Spring 2024","TOP.NarezkaCS2",https://youtube.com/shorts/3rGwmIOIh9E
-64,cs,team,Spirit,action,fan,meta,"sh1ro dropped the gun and did this sneaky knife EWC","EWC Extra",https://youtube.com/shorts/Lj4ckfQLO7U
-65,cs,team,NAVI,action,official,meta,"HELLO It's Me - NAVI CS2 Shorts","NAVI CS2",https://youtube.com/shorts/TZYCR2DL2zQ
-66,cs,team,NAVI,action,official,meta,"s1mple what - NAVI CS2 Shorts","NAVI CS2",https://youtube.com/shorts/Sf3ZBLG-RDo
-67,cs,team,Vitality,action,fan,meta,"ZywOo ACE G2 vs Vitality Blast World Final 2024","CS2 Rampage",https://youtube.com/shorts/W-ZpWPJSEXY
-68,football,player,Mbappe,celebration;emotion,official,meta,"Kylian Mbappe reacts (close-up)","Kylian Mbappé",https://youtube.com/shorts/owX5gPgr2cI
-69,football,player,Mbappe,celebration;emotion,fan,meta,"Mbappe reaction when he lost the World Cup","Exotic_EDITZ",https://youtube.com/shorts/NTeiZBR9xoA
-70,football,player,Mbappe,celebration;emotion,fan,meta,"Mbappe peculiar crying goal celebration","Redis Turbo",https://youtube.com/shorts/xv4LR1zcwmI
-71,football,player,Mbappe,celebration;slowmo,fan,meta,"Mbappe Iconic Knee Slide Celebration","Rudro Editz",https://youtube.com/shorts/OlAd4iVBfd8
-72,football,player,Haaland,celebration;emotion,fan,meta,"Haaland Champions League Final celebration","enem user",https://youtube.com/shorts/ifVU3KYI_pM
-73,football,player,Haaland,entrance;emotion,broadcaster,meta,"Haaland's drastic new look vs Bournemouth","Stan Sport Football",https://youtube.com/shorts/PZrQkjfX3Uk
-74,football,player,Haaland,celebration,fan,meta,"Haaland Robot Celebration","The ULTRAS 90",https://youtube.com/shorts/f076LruX46Q
-75,football,player,Haaland,celebration,fan,meta,"Why Does Haaland Celebrate Like a Robot","Clash Football",https://youtube.com/shorts/OM5X_6haaeI
-76,football,player,De Bruyne,celebration;emotion,fan,meta,"De Bruyne Brought to Tears Having to Come Off","FootballTiktokz",https://youtube.com/shorts/TGJ0ZS22Img
-77,football,player,De Bruyne,celebration;emotion,fan,meta,"Goodbye KDB","Falcon Ae",https://youtube.com/shorts/SGIGVXImzek
-78,football,player,De Bruyne,goal,fan,meta,"De Bruyne goal no celebration","Footy PM",https://youtube.com/shorts/T2dxrWl4KeY
-79,football,player,De Bruyne,celebration,fan,meta,"Kevin De Bruyne First Goal + Celebration","DLS_editzz",https://youtube.com/shorts/cHZVM4W9n2A
-80,football,player,Lamine Yamal,celebration,official,meta,"Lamine Yamal shows how to celebrate a last minute goal","FC Barcelona",https://youtube.com/shorts/o1HlgSyRSQo
-81,football,player,Lamine Yamal,entrance;emotion,official,meta,"Lamine Yamal's Special Moment","Lamine Yamal",https://youtube.com/shorts/jKArGRX4v-w
-82,football,player,Lamine Yamal,celebration;slowmo,fan,meta,"Lamine celebrating in slow motion vs Saudi Arabia","Barca Connect",https://youtube.com/shorts/y5cSRaeHxZo
-83,football,player,Lamine Yamal,celebration;emotion,fan,meta,"Lamine Yamal in tears after being substituted","Barca Family Zone",https://youtube.com/shorts/001QcY47wF8
-84,football,player,Kane,skills,official,meta,"This is PURE ART (Harry Kane)","Bundesliga",https://youtube.com/shorts/ePvwqcbiPBM
-85,football,player,Kane,entrance;emotion,official,meta,"Harry Kane at Tottenham vs Bayern Munich transformation","Harry Kane Official",https://youtube.com/shorts/jlj0AntTI2c
-86,football,player,Kane,celebration;emotion,broadcaster,meta,"Harry Kane on hitting 200 goals for Spurs","Amazon Prime Video Sport",https://youtube.com/shorts/HkbhFYZMQlw
-87,football,player,Kane,celebration,fan,meta,"Harry Kane goal reaction Fulham 0-1 Tottenham","Tik-Tok Sport Compilation",https://youtube.com/shorts/jHUp8wmLogE
-88,football,player,Vini Jr,skills;slowmo,fan,meta,"Vini Goal vs Liverpool w Slow Motion","@nextgemballer",https://youtube.com/shorts/2m5R3O_LKpw
-89,tennis,player,Halep,action;slowmo,fan,meta,"Simona Halep serve in slow motion","ViewsoftheWorld",https://youtube.com/shorts/uLjWZCEoMGs
-90,basketball,team,EuroLeague,action,fan,meta,"Mike James Makes EuroLeague History","EverythingBasketball",https://youtube.com/shorts/8CXNktuwA4s
-91,boxing,player,Manny Pacquiao,punch;slowmo,official,meta,PACQUIAO PUNCHES IN SLOW-MO,Team Pacquiao,https://youtube.com/shorts/rcIgmc2Ek-U
-92,boxing,player,Isaac Cruz,punch;slowmo,official,meta,Isaac Cruz Lands a CRUSHING Left Hook (In Super Slow Motion),Premier Boxing Champions,https://youtube.com/shorts/3xJQpf24fJo
-93,boxing,player,Gervonta Davis,punch;slowmo,fan,meta,Gervonta Davis Signature Uppercut In Super Slow Motion,sweetscience,https://youtube.com/shorts/O21PHgQEb08
-94,boxing,player,Usyk vs Dubois,punch;slowmo,fan,meta,Usyk vs Dubois 2 - INSANE Double Punch in Slow Motion,IF SPORT,https://youtube.com/shorts/fUqFYuGxI5c
-95,boxing,player,Mike Tyson,knockout;slowmo,fan,meta,Mike Tyson Knockout in Slow mo,SportsWrapTV with Omane,https://youtube.com/shorts/EW6w3Yb07fo
-96,boxing,player,Andre Ward,punch;slowmo,fan,meta,Andre Ward Beautiful Counter Punch Slow Motion,Bxxing,https://youtube.com/shorts/g1DYnVuFr5A
-97,mma,player,Ilia Topuria vs Max Holloway,knockout;slowmo,fan,meta,Ilia Topuria KOs Max Holloway in Slow Motion,The Fight Nights,https://youtube.com/shorts/q7gVZlkRAp0
-98,mma,player,Israel Adesanya vs Alex Pereira,knockout;slowmo,fan,meta,SLOW MOTION ISRAEL ADESANYA KO PEREIRA UFC 287,Anthony June,https://youtube.com/shorts/kWoWoYzSJL8
-99,mma,player,Leon Edwards vs Kamaru Usman,knockout;slowmo,fan,meta,Leon Edwards ONE IN A MILLION HEADKICK KO vs Kamaru Usman - SUPER SLOW MO,MMA Clipmaster,https://youtube.com/shorts/XL0EwUKXmX4
-100,mma,player,Conor McGregor vs Eddie Alvarez,action,fan,meta,Conor McGregor vs. Eddie Alvarez,KO.Vortex,https://youtube.com/shorts/bDwzxs6H_R8
-101,mma,player,Ronda Rousey vs Bethe Correia,knockout,fan,meta,Ronda Rousey vs. Bethe Correia,KO.Library,https://youtube.com/shorts/khKthZLQDR0
-102,mma,generic,UFC,knockout,fan,meta,BRUTAL 35 Second K.O DWCS W3,KlayMMA,https://youtube.com/shorts/GJTFJPVUyu0
-103,muaythai,generic,Muay Thai,knockout;slowmo,fan,meta,Muay Thai Jumping Elbow Ultra Slow-motion 960 Fps,Muay Thai Galaxy,https://youtube.com/shorts/nJeOV-aJG5I
-104,muaythai,generic,Muay Thai,knockout;slowmo,fan,meta,Devastating Elbow KO in Muay Thai Slow Motion,Muay Thai Galaxy,https://youtube.com/shorts/LUrl8dH3TDE
-105,muaythai,generic,Muay Thai,knockout,fan,meta,"One Head Kick, One Knockdown - Muay Thai Highlight",Gold Standard Muay Thai,https://youtube.com/shorts/8v0AHQMDHYc
-106,muaythai,player,Tawanchai,highlights,fan,meta,tawanchai moment,HighlightSportID,https://youtube.com/shorts/ISNYVpOYRb4
-107,muaythai,generic,Muay Thai,highlights,fan,meta,CODAZO,Nak Su Fights,https://youtube.com/shorts/GAEdFQ-UHZk
-108,dota2,team,Team Spirit,emotion;celebration,fan,meta,Old but gold team spirit vs. Team Vision in the international 2026 grand finals dota 2,CerChip OFFICIAL,https://youtube.com/shorts/Uq-giB2q-kM
-109,dota2,player,Yatoro,emotion,fan,meta,Yatoro: I am a Professional! [TEAMSPEAK],IV,https://youtube.com/shorts/by0Mm4oRCOk
-110,dota2,team,Team Spirit,emotion,fan,meta,emotions-realization #teamspirit #theinternational #ti10,Why ev,https://youtube.com/shorts/MhCk5i5vF-Y
-111,dota2,generic,Team Liquid,emotion,fan,meta,One of the Saddest Moment of The International 2022 - Liquid Vs Thunder Awaken,Dota Shorts,https://youtube.com/shorts/VAOBEBD4Fkc
-112,dota2,player,SumaiL,emotion,fan,meta,SumaiL actually cries on stream during Dota 2 match,Moments to remember,https://youtube.com/shorts/SNNcHOl_TK8
-113,dota2,generic,The International,emotion,fan,meta,Backstage Reaction as Micke survives on 1 HP,DOTA PERSPECTIVE,https://youtube.com/shorts/p2iiiyEqgGw
-114,lol,player,Faker,emotion,fan,meta,Faker sees his past as Keria cries,T1 fan clip,https://youtube.com/shorts/R0IYaMZL7js
-115,lol,player,Keria,emotion,fan,meta,Keria EXPLODES after T1 vs GenG Ending #worlds2024,Ashley Kang,https://youtube.com/shorts/wqMD5bBL0L0
-116,lol,player,Faker,emotion,fan,meta,The Worlds Loss Faker Couldn't Hide,LeooKnightus,https://youtube.com/shorts/q19a2n-FZPQ
-117,lol,player,Caliste,celebration;emotion,official,meta,Caliste gets a pentakill with such nonchalance,LoL Esports,https://youtube.com/shorts/SOjaxKt6reM
-118,lol,player,Caps,emotion,fan,meta,Caps Enters the LoL Hall of Legends!,PCGamesN,https://youtube.com/shorts/hQ_0rcTEvbA
-119,lol,generic,LoL Esports,emotion,fan,meta,There's nothing worse in the world than losing at Worlds,TheBausffs Highlights,https://youtube.com/shorts/P7EkMTyiCQo
-120,valorant,team,TYLOO,celebration,official,meta,TYLOO picked up a trophy on their way to VALORANT Champions Shanghai,VALORANT Champions Tour,https://youtube.com/shorts/pw3cgY--nD8
-121,valorant,team,LOUD,emotion;celebration,fan,meta,VCT 2022 Valorant winning moment LOUD from Brazil,smcyaseeTV,https://youtube.com/shorts/35iaEtoJsxo
-122,valorant,team,Paper Rex,emotion,fan,meta,PRX Alecks's Emotional Roller-coaster (Paper Rex vs Team Heretics) VCT masters Madrid,AstaFlux,https://youtube.com/shorts/j_xMwotHRJI
-123,valorant,team,Fnatic,celebration,fan,meta,Fnatic Boaster always has the best celebrations,ATapAway,https://youtube.com/shorts/MEgdYEGfJdU
-124,valorant,generic,VCT Americas,celebration,official,meta,Love it when the coaches get just as excited as the pros,VALORANT Champions Tour Americas,https://youtube.com/shorts/SoQQaEH96JE
-125,valorant,team,Fnatic,emotion,fan,meta,Boaster Reacts to FNATIC Vs LOUD Loss,Avalon,https://youtube.com/shorts/nOF3h0j3JLM
-126,football,generic,UEFA,goal,official,eye,INCREDIBLE solo goal 😳,UEFA,https://youtube.com/shorts/QWobKDI5KIc
-127,football,player,Cristiano Ronaldo,skills;goal,fan,eye,🔥 Ronaldo’s Signature Step Over & Stunning Goal! ⚡🎯 | Pure Football Magic,Portugal F.C.,https://youtube.com/shorts/VAsGZ1PeWUs
-128,football,player,Cristiano Ronaldo,skills;slowmo,fan,eye,Cristiano Ronaldo high jump ||♥️||,WORLD OF OUTFITS,https://youtube.com/shorts/NXW_QLRegOM
-129,football,player,Lionel Messi,skills,fan,eye,Prime Messi in Last Minute 😈,SH10Comps,https://youtube.com/shorts/_l_-vU4VvW8
-130,football,player,Cristiano Ronaldo,goal;skills,fan,eye,He Sat Them Down One by One and Finished Ice-Cold 🔥,SportsFlow,https://youtube.com/shorts/5nBj20enoRY
-131,football,player,Lionel Messi,skills;celebration,fan,eye,Messi x New Trend 🔥😮‍💨,Shady_Edit,https://youtube.com/shorts/xmSgANHAgZ8
-132,football,player,Neymar,skills,fan,meta,Neymar Jr 4K Skills 🔥 | Insane Dribbles ⚽,Aloneyt-7h,https://youtube.com/shorts/wEz0K7NTHqQ
-133,football,generic,Football,skills;slowmo,fan,meta,Smoothest Transitions in Football 🥶,Skiller 90,https://youtube.com/shorts/goB5wzxbr7I
-134,football,player,Vinicius Junior,skills,official,meta,INSANE VINI 🌠 #skills #realmadrid,LALIGA EA SPORTS,https://youtube.com/shorts/6HDkDiLcotw
-135,football,generic,Football,action,official,meta,4K 100fps 360° Football Action | DJI Osmo 360,DJI,https://youtube.com/shorts/jr5HBGmQAs0
-136,basketball,player,Richaun Holmes,dunk;slowmo,fan,meta,Richaun Holmes best pregame slow motion dunk 🔥😍🏀,nba plays today,https://youtube.com/shorts/Cfy5t9od_80
-137,basketball,player,Kyrie Irving,skills;slowmo,fan,meta,Kyrie Irving slow motion NBA highlights,Just Basketball,https://youtube.com/shorts/IURfqpDO7Q0
-138,basketball,player,Zion Williamson,dunk;slowmo,fan,meta,Zion Williamson 360 windmill dunk slow motion 💣,iLove,https://youtube.com/shorts/98mIl0PXI3o
-139,basketball,generic,NBA,dunk;slowmo,fan,meta,slow motion game boys 😎,Sports Freekze,https://youtube.com/shorts/4Mfn9n6DbUc
-140,basketball,generic,NBA,dunk;slowmo,fan,meta,slow mo dunk and normal speed dunk and very fast speed dunk,Endzone productions,https://youtube.com/shorts/vUyFO_Lx81k
-141,basketball,player,Jaylen Brown,dunk;slowmo,fan,meta,Jaylen Brown dunk really looks nice in slow-mo,NBAFlix,https://youtube.com/shorts/sC10-TkFBCc
-142,basketball,player,LeBron James,slowmo,official,eye,LeBron... Courtside. Slow motion. BUCKETS! #Shorts,NBA Europe,https://youtube.com/shorts/ff0HtErK0XI
-143,basketball,player,Stephen Curry,skills;slowmo,fan,meta,Steph Curry Shot Slow Motion | Shot path,Khurram Sultan,https://youtube.com/shorts/WDnT5lF745w
-144,basketball,player,Anthony Edwards,dunk,fan,meta,The Best Anthony Edwards Dunks 🤯,Josh Englert,https://youtube.com/shorts/ZZyz9HrFSDI
-145,basketball,generic,Basketball,slowmo,fan,meta,Basketball shot in slow motion,ARCTIC DAKOTA,https://youtube.com/shorts/tk0Oaf3qDUM
-146,hockey,generic,Hockey,slowmo,fan,meta,Slo Mo Slapshot,JSwizz11es,https://youtube.com/shorts/8Ge5RThoMrk
-147,hockey,generic,Hockey,skills,fan,meta,A cinematic breakdown of iconic shootout goals,Ice IQ,https://youtube.com/shorts/78EECd-Lo-k
-148,hockey,generic,Hockey,skills,fan,meta,Super Shots player #hockey,Top Buzz USA,https://youtube.com/shorts/5KGO9Hlpgfk
-149,hockey,generic,Hockey,slowmo,fan,meta,I Hate It When You Can't Stop It And Have To Watch It In Slow Motion,HockeyHelge,https://youtube.com/shorts/iQddNCiQjk0
-150,hockey,player,Connor McDavid,skills,fan,meta,Connor McDavid's insane speed + wrist shot training,Game Time Clips,https://youtube.com/shorts/LalPnhjioZo
-151,hockey,player,Mitch Marner,entrance,broadcaster,meta,Mitch Marner Warmup Spins 🕺,SPORTSNET,https://youtube.com/shorts/9APjH0-Atpw
-152,hockey,player,Connor Bedard,skills,fan,meta,Connor Bedard's shooting drill 🎯🏒,Dave Sport,https://youtube.com/shorts/PoWl4ydPSbE
-153,hockey,team,Seattle Kraken,action,official,eye,zoom zoom ⚡️ #SeattleKraken #NHL,Seattle Kraken,https://youtube.com/shorts/AvcgGCHVCDo
-154,hockey,generic,Hockey,goal;skills,fan,meta,combination + GOAL!!! 😳🔥,Only Athlete,https://youtube.com/shorts/xllmcWx6hU0
-155,hockey,generic,Hockey,skills,fan,meta,Smooth 😎 #hockey #trickshots,Artur Masalimov,https://youtube.com/shorts/LqV1BiyOGlM
-156,mma,generic,UFC 330,knockout;slowmo,fan,meta,UFC 330's Most INSANE Moments in Slow Motion 🔥🥊,KO Fight Rush,https://youtube.com/shorts/S0Nb2YJ6gjw
-157,mma,player,Alex Pereira,slowmo,fan,meta,Cold face. Violent hands. Alex Pereira #cinematic,N.Zoii_,https://youtube.com/shorts/dGRhZRN5wsU
-158,mma,player,Edson Barboza,highlights;slowmo,fan,meta,Barboza Retirement Fight | Edson Barboza UFC Edit | 4K 120FPS,MMA Legends,https://youtube.com/shorts/EO_G4QSkw-k
-159,mma,player,Conor McGregor,knockout;slowmo,fan,meta,Conor McGregor 13 SECOND KNOCKOUT vs Jose Aldo - Super Slow Mo,MMA Clipmaster,https://youtube.com/shorts/fo1zxSvLmJ4
-160,mma,player,Ilia Topuria,knockout;slowmo,broadcaster,meta,Slow Mo: Ilia Topuria's KO Of Charles Oliveira 💥,SPORTSNET,https://youtube.com/shorts/V19R_CyRooU
-161,mma,generic,UFC,slowmo,broadcaster,meta,Slow-mo shoey 👟,ESPN MMA,https://youtube.com/shorts/HB8korpqojo
-162,mma,player,Jon Jones,knockout;slowmo,fan,meta,Jon Jones vs Stipe Miocic Slomo Highlights,Zeilen aus Gold,https://youtube.com/shorts/MKuGZPeiGUI
-163,mma,generic,UFC,knockout,official,eye,Dude... this knee sounded SO LOUD! 😳 #nocommentary,UFC,https://youtube.com/shorts/gfmFLHyLBlU
-164,mma,player,Islam Makhachev,knockout,fan,meta,From soft poses to relentless UFC knockouts! #IslamMakhachev,UFCzic,https://youtube.com/shorts/cw4AOcF_NEk
-165,mma,player,Yoel Romero,knockout,fan,meta,Yoel Romero vs Chris Weidman highlight #flying #knee,KNOCKOUT-KINGZZ,https://youtube.com/shorts/_9T1cBjG0nU
-166,f1,team,Mercedes-AMG Petronas,celebration;slowmo,official,meta,Champagne spray always looks better in slow mo 🍾,Mercedes-AMG Petronas Formula One Team,https://youtube.com/shorts/uJGN_RcSfxI
-167,f1,generic,Formula 1,slowmo,fan,meta,F1 Car DRIFTS Through Rain at Golden Hour | Cinematic Racing,Content Pulse 99,https://youtube.com/shorts/B9A1rBpGheo
-168,f1,team,Mercedes-AMG Petronas,action,official,eye,The Most Beautiful Sound In The World 😍,Mercedes-AMG Petronas Formula One Team,https://youtube.com/shorts/UD0byvAvY8w
-169,f1,generic,Formula 1,action,fan,meta,0-200 km/h in 3.9s in F1 Car Onboard,Kamil Junior,https://youtube.com/shorts/YxUe3lSxarQ
-170,f1,generic,Formula 1,action,fan,meta,Monaco's Swimming Pool Chicane: F1's Greatest Camera Angle,My F1 Obsession,https://youtube.com/shorts/fXTwruSkkJY
-171,f1,generic,Formula 1,slowmo,fan,meta,slow vs fast corner in f1 😍🔥,F1 IS LOVE,https://youtube.com/shorts/nFsHRnb6jfw
-172,f1,generic,Formula 1,highlights,fan,meta,Formula 1 Edit | Sem Controle slowed,Tikk Editx,https://youtube.com/shorts/7MR8pEnwpI8
-173,f1,player,Kimi Antonelli,action;slowmo,fan,meta,so cinematic 🏎❤️,AntonelliF1,https://youtube.com/shorts/BPm8G1MjUHM
-174,f1,generic,Formula 1,highlights,fan,meta,The most cinematic F1 marshal moment 🏁 Zandvoort,ApexSport,https://youtube.com/shorts/bGOr0DeRcNI
-175,f1,player,Max Verstappen,highlights,fan,meta,Max Verstappen: Unstoppable Force 🦁 | F1 Edit,SNIPSNAX,https://youtube.com/shorts/2utxs00Q110
-176,tennis,player,Jannik Sinner,slowmo,fan,meta,Jannik Sinner serve in slow motion 🚀,Hit With Me - Tennis Media,https://youtube.com/shorts/Xuq5TWBVPm4
-177,tennis,player,Carlos Alcaraz,skills;slowmo,fan,meta,Carlos Alcaraz Backhand Slow Motion,ATennis,https://youtube.com/shorts/ZWhJ34aLWzc
-178,tennis,generic,US Open,skills,official,eye,RIDICULOUS drop shot! 😮‍💨,US Open Tennis Championships,https://youtube.com/shorts/GItLCmlMe7Q
-179,tennis,player,Carlos Alcaraz,skills;slowmo,fan,meta,Carlos Alcaraz slow-motion forehand 💪,Hit With Me - Tennis Media,https://youtube.com/shorts/_Auu2hKtpBg
-180,tennis,player,Novak Djokovic,skills;slowmo,fan,meta,The Djoker's Serve (slow motion),Essential Tennis,https://youtube.com/shorts/bldnQQwQh2I
-181,tennis,player,Juan Martin del Potro,skills;slowmo,fan,meta,LETHAL Del Potro Forehand Super Slow Motion!,Topspin Tennis,https://youtube.com/shorts/TkdsvJXUdPI
-182,tennis,generic,Tennis,slowmo,fan,meta,Tennis Forehand power session,Stunning sports,https://youtube.com/shorts/Ru0So8W369M
-183,tennis,player,Carlos Alcaraz,slowmo;emotion,fan,meta,Alcaraz Slow Mo #usopen #slowmotion,Cinematic Short Films,https://youtube.com/shorts/ZyYt8_VNv5w
-184,tennis,generic,Tennis,highlights,fan,meta,What an AMAZING RALLY 🥵!,ADtennis,https://youtube.com/shorts/jv5lF0YLEz8
-185,tennis,player,Sinner vs Alcaraz,skills;slowmo,fan,meta,Sinner vs Alcaraz Forehand | Slow Motion Comparison,Quick Tennis,https://youtube.com/shorts/J8gIQTL9X_U
-186,dota2,generic,Ancient Apparition,skills,fan,eye,Ancient Apparition — The Eternal Kaldr | Dota 2 Hero Visualizer,Dota Cinematic Universe,https://youtube.com/shorts/gN3QKxJ-yz4
-187,dota2,generic,Dota 2,action,fan,meta,Anti-Mage vs Terrorblade | Dota 2 Cinematic Movie #cinematic,Mythos Cinema CGI,https://youtube.com/shorts/aXqu27DJguU
-188,dota2,generic,Dota 2,action,fan,meta,dota 2 cinema,Timeless,https://youtube.com/shorts/D3Zg86YEGro
-189,dota2,player,Topson,highlights,official,meta,TOPSON OR CAPTAIN AMERICA? 🛡,OG Esports,https://youtube.com/shorts/Tswh-T4oug8
-190,dota2,generic,Dota 2,highlights,fan,meta,"One Lich Ult, Everyone Dead 😱💥",Rampage Clip TV,https://youtube.com/shorts/K7WQNbvDEOA
-191,dota2,player,Cr1t,highlights,fan,meta,Falcons Cr1t THE SPACE CREATOR 🌌,Pirate,https://youtube.com/shorts/YIjNowdY4AI
-192,dota2,generic,Mirana,highlights,fan,meta,Mirana's Arrow Never Misses! 🎯🔥,Kenjutso,https://youtube.com/shorts/Y6lr4Q0TLlg
-193,dota2,generic,Ogre Magi,highlights,fan,meta,Ogre Magi Unleashed! 😈🔥,DotaMorph Nexus,https://youtube.com/shorts/WwWPGtKDOzU
-194,dota2,generic,Faceless Void,highlights,fan,meta,Faceless Void's Chrono Was Perfect 🤯🔥,RampageCLipTV2,https://youtube.com/shorts/HViqnMVDU8o
-195,dota2,generic,Faceless Void,highlights,fan,meta,Faceless Void's Chrono Was Devastating ⏳💀,Rampage Clip TV,https://youtube.com/shorts/6bUu9Gk0cmE
-196,boxing,generic,Boxing,knockout;slowmo,broadcaster,eye,Super Slow Motion Knockout,TrillerTV,https://youtube.com/shorts/uQM7q0rnb1E
-197,boxing,player,Jared Anderson,knockout;slowmo,fan,eye,Jared Anderson Super Slow Motion Brutal KOs Ibeh,sweetscience,https://youtube.com/shorts/bpmpMqjYg7g
-198,boxing,generic,Boxing,slowmo,fan,eye,Boxing in slow motion,CRENTHLIFE,https://youtube.com/shorts/Q-8gBTZm5Lc
-199,boxing,generic,Boxing,knockout;slowmo,broadcaster,eye,Knockout in super slow motion,FCCtv,https://youtube.com/shorts/0YtAtV0pFCs
-200,boxing,player,Israil Madrimov vs Michel Soro,highlights;slowmo,fan,eye,HIGHLIGHT: Israil Madrimov vs Michel Soro | Replay in Slow Mo,Thug Me White Lion 2,https://youtube.com/shorts/BxCZGne8YvM
-201,boxing,player,Muhammad Ali vs Joe Frazier,knockout;slowmo,fan,eye,Muhammad Ali Vs Joe Frazier Knockdown Slow Motion,Boxing TV,https://youtube.com/shorts/6SQ1oZUK4kY
-202,boxing,player,Manny Pacquiao vs Timothy Bradley,knockout;slowmo,fan,eye,Pacquiao vs Bradley slow motion knockout,Leeam sports tv,https://youtube.com/shorts/H7130sAM9UI
-203,boxing,player,Mike Tyson,punch;slowmo,fan,eye,Mike Tyson delivers a devastating uppercut with precision and power,Sweet.smooth.boxing,https://youtube.com/shorts/kWTgMSQcsGY
-204,boxing,player,Mike Tyson vs Evander Holyfield,slowmo,fan,eye,Mike Tyson vs Holyfield Slow Motion,CALEB Boxing,https://youtube.com/shorts/o_R7aWRsTtM
-205,boxing,player,Muhammad Ali vs Sonny Liston,punch;slowmo,fan,eye,Muhammad Ali V Sonny Liston Phantom Punch,THD Sports,https://youtube.com/shorts/UgSb5B7sAKI
-206,boxing,player,Muhammad Ali,punch;slowmo,fan,eye,Ali's phantom punch in super slow motion,Ahmadtarekbxng,https://youtube.com/shorts/_8VDLk6bwyI
-207,boxing,player,Diego Pacheco vs Adrian Luna,highlights;slowmo,fan,eye,World Boxing Highlight: Diego Pacheco vs Adrian Luna | Replay in Slow Mo,Thug Me White Lion 2,https://youtube.com/shorts/3XrrlYPbcdY
-208,dota2,generic,Alchemist,skills,fan,eye,Alchemist — Chemical Rage | Dota 2 Hero Visualizer,Dota Cinematic Universe,https://youtube.com/shorts/M3JmPXQQazg
-209,dota2,generic,Dota 2,action,fan,eye,"The World, but it's SFM Dota 2 cinematic",eMRK,https://youtube.com/shorts/kknpD6lRwLk
-210,dota2,generic,Dota 2,action,fan,eye,What If Dota Heroes Were Real? | Ultra Realistic AI Cinematic,MOSIKA,https://youtube.com/shorts/7c84bilcyEE
-211,dota2,generic,Dota 2,action,fan,eye,dota 2 cinema pudge medusa and phantom assassin,Timeless,https://youtube.com/shorts/lw6d2BaPnsQ
-212,dota2,generic,Dota 2,action,fan,eye,4 Dota Skills Reimagined in Real Life,MOSIKA,https://youtube.com/shorts/6Yocz1jP4CE
-213,dota2,generic,Abaddon,skills,fan,eye,Abaddon — Lord of Avernus | Dota 2 Hero Visualizer,Dota Cinematic Universe,https://youtube.com/shorts/Xt_QWcCvcOM
-214,dota2,generic,Phantom Assassin,skills,fan,eye,Hero Spotlight - Phantom Assassin,AncientFramesKing,https://youtube.com/shorts/LHXPhwHYhJc
-215,dota2,generic,Dota 2,action,fan,eye,Dota Event Movie,Tavern Cinema,https://youtube.com/shorts/Hgd562IIdR8
-216,dota2,generic,Drow Ranger,skills,fan,eye,Dread Retribution Drow Ranger Arcana Intro,MidasMITTY,https://youtube.com/shorts/19lKfnkYwW4
-217,dota2,generic,Drow Ranger,skills,fan,eye,Drow Ranger ARCANA (Style 2),Cyborg M - Dota 2,https://youtube.com/shorts/TI1EXdMJGHw
-218,dota2,generic,Juggernaut,skills,fan,eye,Hero Spotlight - Juggernaut,AncientFramesKing,https://youtube.com/shorts/4oTKeOOljBY
-219,dota2,generic,Invoker,skills,fan,eye,Hero Spotlight - Invoker,AncientFramesKing,https://youtube.com/shorts/7mgJRtsl2_w
-220,dota2,generic,Phantom Assassin,skills,fan,eye,Dota 2 Exile Unveiled | Phantom Assassin Persona Intro,MidasMITTY,https://youtube.com/shorts/CJVmU98tS4M
-221,dota2,generic,Dota 2,action,fan,eye,Dota 2 Short Film,Pinoy DotA,https://youtube.com/shorts/HIOfj5kuIC0
+id,sport,subject_type,subject,style,source_type,verified,title,channel,url,batch
+1,football,player,Mbappe,goal;slowmo,official,eye,Mbappe's goal looks better in slow motion,FIFA,https://youtube.com/shorts/qmycqcrLazI,
+2,football,team,Chelsea,goal,official,meta,Cole Palmer's Moment of Brilliance,Premier League,https://youtube.com/shorts/dXlvlQO9Cfg,
+3,football,team,Man City,skills,official,meta,Doku gone in a flash,Man City,https://youtube.com/shorts/GLuvR62RCYU,
+4,football,team,Brighton,goal,official,meta,Joao Pedro Scores After 31 Seconds,Premier League,https://youtube.com/shorts/r1L7b66ogWM,
+5,football,team,AFC Bournemouth,goal;slowmo,official,meta,This slow-mo for Solanke's goal,AFC Bournemouth,https://youtube.com/shorts/lJVop_KD0sA,
+6,football,team,Man City,skills;slowmo,broadcaster,meta,Savinho's silky assist in SLOW-MO,SuperSport,https://youtube.com/shorts/RGZPGei3veE,
+7,football,team,PSG,goal;slowmo,fan,meta,Fabian Ruiz's Goal vs Arsenal Ultra Slow Motion,Trafootic,https://youtube.com/shorts/gPQThYimyEU,
+8,football,generic,goalkeeper,action;slowmo,broadcaster,meta,The best goalkeeper save in slow motion,ESPN FC,https://youtube.com/shorts/hCdh3es89fI,
+9,football,team,Man City,action,official,meta,When the crossbar saves you but you score an own goal,Premier League,https://youtube.com/shorts/unPFe0gij58,
+10,football,team,Real Madrid,skills;slowmo,fan,meta,Slowmo Vini Jr on the Break,Football Trailblazers,https://youtube.com/shorts/f9MJrnus4cU,
+11,football,team,Arsenal,skills;slowmo,fan,meta,The genius Bukayo Saka in slow motion,Arsenal football club news,https://youtube.com/shorts/nHBHbvMke-Q,
+12,football,team,Barcelona,skills,official,meta,"Simply, Lamine Yamal",FC Barcelona,https://youtube.com/shorts/ZZMAPnX7I3Y,
+13,football,team,Arsenal,celebration,official,meta,ICONIC Arsenal goals celebrated in style,Arsenal,https://youtube.com/shorts/oAWFyNKY6gA,
+14,football,team,Arsenal,goal;slowmo,official,meta,Gabriel's goal in slow motion,Arsenal,https://youtube.com/shorts/TdVoLPfLjCI,
+15,football,generic,Wembley,celebration;slowmo,official,meta,Goal and celebration in slow mo is pure art,Wembley Stadium,https://youtube.com/shorts/02V7MmYyyao,
+16,football,team,Liverpool,goal;slowmo,broadcaster,meta,The perfect slow-mo angle of Saka's stunner v Liverpool,NBC Sports,https://youtube.com/shorts/VDqRaOANkUo,
+17,football,team,Bayern,skills;slowmo,fan,meta,Musiala in slow motion,athleticIshe,https://youtube.com/shorts/MGVmVUuSwlo,
+18,football,team,Bayern,goal;slowmo,fan,meta,Champions in slow motion,footy burst,https://youtube.com/shorts/Vgs9y6bb5jQ,
+19,hockey,team,Neftekhimik,slowmo,official,meta,Хоккей в slow-mo - это отдельный вид искусства,ХК Нефтехимик,https://youtube.com/shorts/32tpeXMLeew,
+20,hockey,team,KHL,slowmo,official,meta,Ну что я ещё могу (Радулов/Шалунов),КХЛ,https://youtube.com/shorts/NmctTB6cwp8,
+21,hockey,team,Ak Bars,action,official,meta,Лучший пас сезона,Ak Bars,https://youtube.com/shorts/OTCtIbDr4IA,
+22,hockey,team,Torpedo (ZhHL),skills,official,meta,Немного красоты от Торпедо,ЖХЛ,https://youtube.com/shorts/Vf3kgCKDleI,
+23,hockey,team,NHL,slowmo,official,meta,Snipes in Slow Motion,NHL,https://youtube.com/shorts/oh6C94pdENA,
+24,hockey,team,CHL,goal;slowmo,official,meta,It's all about the drama,Champions Hockey League,https://youtube.com/shorts/Sj1jhHDXO0c,
+25,hockey,team,HC Lugano,action;slowmo,official,meta,Goalie was watching the finish in slow motion,National League,https://youtube.com/shorts/pgzSTUJk2Mk,
+26,hockey,team,CHL,goal;slowmo,official,meta,So many goals between these two,Champions Hockey League,https://youtube.com/shorts/XzwljO8_nTg,
+27,hockey,team,KHL,action,fan,meta,Unreal Hockey Deflection,KHL Highlights,https://youtube.com/shorts/ubIsu1V1xuc,
+28,hockey,team,Avangard,action,fan,meta,Проскуряков зарешал момент и спасение,Sergey Kolesov,https://youtube.com/shorts/N_fEqzm49t4,
+29,hockey,team,Admiral,goal,fan,meta,Гол в пустые ворота (Адмирал/Автомобилист),Epic Gold,https://youtube.com/shorts/f51mzq3P5AY,
+30,hockey,player,Connor Bedard,slowmo,fan,meta,Connor Bedard is a beauty in slow mo,eyesHOCKEYspot,https://youtube.com/shorts/y9bMKdE0Tno,
+31,tennis,player,Alcaraz,skills,official,meta,Alcaraz with pure skill,Roland-Garros,https://youtube.com/shorts/BMtpAuH8H8M,
+32,tennis,player,Shapovalov,action,broadcaster,meta,Amazing Denis Shapovalov Jump Backhand Slow Mo,Tennis TV,https://youtube.com/shorts/beZNZQhvwBw,
+33,tennis,player,Coco Gauff,celebration;slowmo,fan,meta,Coco Gauff winning the Cincinnati Open in slow motion,Tennis Updates,https://youtube.com/shorts/Rab-V23cXhs,
+34,tennis,player,Dimitrov,action,fan,meta,Grigor Dimitrov Slow Motion Return Roland Garros 2022,DanTenn3000,https://youtube.com/shorts/KiGjQF0lB9A,
+35,tennis,player,Anisimova,action,fan,meta,Amanda Anisimova serve slow-mo US Open 2021,Grounds Pass Tennis,https://youtube.com/shorts/NwP_tF58qNw,
+36,tennis,player,Zheng Qinwen,action,fan,meta,Zheng Qinwen Serve Slow Motion,Nancy Lee Tennis,https://youtube.com/shorts/h3IN-MN9nBk,
+37,tennis,player,Sinner,action;slowmo,broadcaster,meta,Slow Motion Sinner Serve,Tennis TV,https://youtube.com/shorts/Ee63gpG-v5c,
+38,tennis,player,Swiatek,action;slowmo,fan,meta,Iga Swiatek Forehand Return Slow-Motion,Hit With Me - Tennis Media,https://youtube.com/shorts/PLVcii2Lguw,
+39,tennis,player,Djokovic,action;slowmo,fan,meta,Novak Djokovic Service In Slow Motion Miami 2025,Coach Paul Tennis Fit,https://youtube.com/shorts/jHcXQDu7z2o,
+40,tennis,player,Federer,action;slowmo,fan,meta,Roger Federer serve in slow motion ATP Finals,Tennis Ace,https://youtube.com/shorts/KgDZc5eSIWA,
+41,tennis,player,Medvedev,action;slowmo,fan,meta,Medvedev kick serve in slow motion Indian Wells,Jim Fawcette,https://youtube.com/shorts/1vz2RsxWqSo,
+42,tennis,player,Rybakina,action;slowmo,fan,meta,Amazing Rybakina slow motion backhands,TennisAcademy101,https://youtube.com/shorts/wsh_nNXbQ7E,
+43,basketball,team,EuroLeague,action,official,meta,Mike James scores 3-points,EUROLEAGUE BASKETBALL,https://youtube.com/shorts/IEjT91NfZ8w,
+44,basketball,team,EuroLeague Women,action,official,meta,ICE COLD,EuroLeague Women,https://youtube.com/shorts/uiDGAmMNVtg,
+45,basketball,team,EuroLeague Women,action,official,meta,No look dime,EuroLeague Women,https://youtube.com/shorts/kQPqPl-0-h8,
+46,basketball,team,EuroLeague Women,action,official,meta,Sloot doing Sloot things,EuroLeague Women,https://youtube.com/shorts/mCRHlqx1aQ8,
+47,basketball,team,Memphis Grizzlies,slowmo,fan,meta,Ja Morant Slow Motion vs Brooklyn Nets,BasketballCrew92,https://youtube.com/shorts/ZVzexyngRrI,
+48,basketball,team,Zalgiris,dunk,fan,meta,Put-back Dunk Shocks Zalgiris,BasketHead,https://youtube.com/shorts/6hRcSqsZU3g,
+49,basketball,team,San Antonio Spurs,skills,fan,meta,Wemby in Slow Mo,NBA Highlight Reels,https://youtube.com/shorts/YkKIvE70fc4,
+50,basketball,team,Indiana Pacers,dunk,fan,meta,Nesmith's Poster JAM in Slow Motion,Your YHANiverse,https://youtube.com/shorts/OVkCxNNMKp8,
+51,basketball,team,Los Angeles Lakers,dunk;slowmo,fan,meta,Lakers LeBron James Slow Motion Dunk,DBA,https://youtube.com/shorts/V7Q5SYwh3GU,
+52,basketball,team,Golden State Warriors,action;slowmo,fan,meta,Curry's Buzzer Beater in SLO-MO,Your YHANiverse,https://youtube.com/shorts/DnSWl6eHP70,
+53,basketball,team,Boston Celtics,action;slowmo,fan,meta,Slow Mo Game 2 Celtics vs Dallas finals,SportsLyte,https://youtube.com/shorts/FZQIAy2mBkk,
+54,basketball,team,Boston Celtics,action;slowmo,fan,meta,Jayson Tatum game winner on Giannis in slow motion,Legendary Amazing,https://youtube.com/shorts/uLFwLkxqIDw,
+55,cs,team,G2,action,official,meta,FIRST ACE of the tournament by r1nkle (G2),BLAST Premier,https://youtube.com/shorts/z2BkhcXNluU,
+56,cs,team,Spirit,action,official,meta,sh1ro Wins a Crucial 1v2 Clutch,BLAST Premier CS2 Highlights,https://youtube.com/shorts/o_JSwP6617I,
+57,cs,team,Falcons,action,official,meta,ztr clutches a 1v2,ESL Counter-Strike Highlights,https://youtube.com/shorts/frFMJEgGg24,
+58,cs,team,G2,action,official,meta,m0NESY's filthy double with a wallbang noscope,ESL Counter-Strike Highlights,https://youtube.com/shorts/35FmGFRU14w,
+59,cs,team,G2,action,official,meta,r1nkle Does the Impossible with a Beautiful AWP Triple,BLAST Premier CS2 Highlights,https://youtube.com/shorts/vTUx-oOi9MA,
+60,cs,team,Spirit,action,fan,meta,donk INSANE 1v5 ACE vs HEROIC Shanghai Major 2024,ND Highlights,https://youtube.com/shorts/VWT18aYH8OY,
+61,cs,team,G2,action,official,meta,Famas in Hand r1nkle Takes the Entire Team,BLAST Premier CS2 Highlights,https://youtube.com/shorts/DHNKcGttBB8,
+62,cs,team,MOUZ,action,official,meta,MATYS Turns a Knife Kill into Free Money,BLAST Premier CS2 Highlights,https://youtube.com/shorts/78ikxm2JX50,
+63,cs,team,Astralis,action,fan,meta,Astralis vs Team Falcons BLAST Premier Spring 2024,TOP.NarezkaCS2,https://youtube.com/shorts/3rGwmIOIh9E,
+64,cs,team,Spirit,action,fan,meta,sh1ro dropped the gun and did this sneaky knife EWC,EWC Extra,https://youtube.com/shorts/Lj4ckfQLO7U,
+65,cs,team,NAVI,action,official,meta,HELLO It's Me - NAVI CS2 Shorts,NAVI CS2,https://youtube.com/shorts/TZYCR2DL2zQ,
+66,cs,team,NAVI,action,official,meta,s1mple what - NAVI CS2 Shorts,NAVI CS2,https://youtube.com/shorts/Sf3ZBLG-RDo,
+67,cs,team,Vitality,action,fan,meta,ZywOo ACE G2 vs Vitality Blast World Final 2024,CS2 Rampage,https://youtube.com/shorts/W-ZpWPJSEXY,
+68,football,player,Mbappe,celebration;emotion,official,meta,Kylian Mbappe reacts (close-up),Kylian Mbappé,https://youtube.com/shorts/owX5gPgr2cI,
+69,football,player,Mbappe,celebration;emotion,fan,meta,Mbappe reaction when he lost the World Cup,Exotic_EDITZ,https://youtube.com/shorts/NTeiZBR9xoA,
+70,football,player,Mbappe,celebration;emotion,fan,meta,Mbappe peculiar crying goal celebration,Redis Turbo,https://youtube.com/shorts/xv4LR1zcwmI,
+71,football,player,Mbappe,celebration;slowmo,fan,meta,Mbappe Iconic Knee Slide Celebration,Rudro Editz,https://youtube.com/shorts/OlAd4iVBfd8,
+72,football,player,Haaland,celebration;emotion,fan,meta,Haaland Champions League Final celebration,enem user,https://youtube.com/shorts/ifVU3KYI_pM,
+73,football,player,Haaland,entrance;emotion,broadcaster,meta,Haaland's drastic new look vs Bournemouth,Stan Sport Football,https://youtube.com/shorts/PZrQkjfX3Uk,
+74,football,player,Haaland,celebration,fan,meta,Haaland Robot Celebration,The ULTRAS 90,https://youtube.com/shorts/f076LruX46Q,
+75,football,player,Haaland,celebration,fan,meta,Why Does Haaland Celebrate Like a Robot,Clash Football,https://youtube.com/shorts/OM5X_6haaeI,
+76,football,player,De Bruyne,celebration;emotion,fan,meta,De Bruyne Brought to Tears Having to Come Off,FootballTiktokz,https://youtube.com/shorts/TGJ0ZS22Img,
+77,football,player,De Bruyne,celebration;emotion,fan,meta,Goodbye KDB,Falcon Ae,https://youtube.com/shorts/SGIGVXImzek,
+78,football,player,De Bruyne,goal,fan,meta,De Bruyne goal no celebration,Footy PM,https://youtube.com/shorts/T2dxrWl4KeY,
+79,football,player,De Bruyne,celebration,fan,meta,Kevin De Bruyne First Goal + Celebration,DLS_editzz,https://youtube.com/shorts/cHZVM4W9n2A,
+80,football,player,Lamine Yamal,celebration,official,meta,Lamine Yamal shows how to celebrate a last minute goal,FC Barcelona,https://youtube.com/shorts/o1HlgSyRSQo,
+81,football,player,Lamine Yamal,entrance;emotion,official,meta,Lamine Yamal's Special Moment,Lamine Yamal,https://youtube.com/shorts/jKArGRX4v-w,
+82,football,player,Lamine Yamal,celebration;slowmo,fan,meta,Lamine celebrating in slow motion vs Saudi Arabia,Barca Connect,https://youtube.com/shorts/y5cSRaeHxZo,
+83,football,player,Lamine Yamal,celebration;emotion,fan,meta,Lamine Yamal in tears after being substituted,Barca Family Zone,https://youtube.com/shorts/001QcY47wF8,
+84,football,player,Kane,skills,official,meta,This is PURE ART (Harry Kane),Bundesliga,https://youtube.com/shorts/ePvwqcbiPBM,
+85,football,player,Kane,entrance;emotion,official,meta,Harry Kane at Tottenham vs Bayern Munich transformation,Harry Kane Official,https://youtube.com/shorts/jlj0AntTI2c,
+86,football,player,Kane,celebration;emotion,broadcaster,meta,Harry Kane on hitting 200 goals for Spurs,Amazon Prime Video Sport,https://youtube.com/shorts/HkbhFYZMQlw,
+87,football,player,Kane,celebration,fan,meta,Harry Kane goal reaction Fulham 0-1 Tottenham,Tik-Tok Sport Compilation,https://youtube.com/shorts/jHUp8wmLogE,
+88,football,player,Vini Jr,skills;slowmo,fan,meta,Vini Goal vs Liverpool w Slow Motion,@nextgemballer,https://youtube.com/shorts/2m5R3O_LKpw,
+89,tennis,player,Halep,action;slowmo,fan,meta,Simona Halep serve in slow motion,ViewsoftheWorld,https://youtube.com/shorts/uLjWZCEoMGs,
+90,basketball,team,EuroLeague,action,fan,meta,Mike James Makes EuroLeague History,EverythingBasketball,https://youtube.com/shorts/8CXNktuwA4s,
+91,boxing,player,Manny Pacquiao,punch;slowmo,official,meta,PACQUIAO PUNCHES IN SLOW-MO,Team Pacquiao,https://youtube.com/shorts/rcIgmc2Ek-U,
+92,boxing,player,Isaac Cruz,punch;slowmo,official,meta,Isaac Cruz Lands a CRUSHING Left Hook (In Super Slow Motion),Premier Boxing Champions,https://youtube.com/shorts/3xJQpf24fJo,
+93,boxing,player,Gervonta Davis,punch;slowmo,fan,meta,Gervonta Davis Signature Uppercut In Super Slow Motion,sweetscience,https://youtube.com/shorts/O21PHgQEb08,
+94,boxing,player,Usyk vs Dubois,punch;slowmo,fan,meta,Usyk vs Dubois 2 - INSANE Double Punch in Slow Motion,IF SPORT,https://youtube.com/shorts/fUqFYuGxI5c,
+95,boxing,player,Mike Tyson,knockout;slowmo,fan,meta,Mike Tyson Knockout in Slow mo,SportsWrapTV with Omane,https://youtube.com/shorts/EW6w3Yb07fo,
+96,boxing,player,Andre Ward,punch;slowmo,fan,meta,Andre Ward Beautiful Counter Punch Slow Motion,Bxxing,https://youtube.com/shorts/g1DYnVuFr5A,
+97,mma,player,Ilia Topuria vs Max Holloway,knockout;slowmo,fan,meta,Ilia Topuria KOs Max Holloway in Slow Motion,The Fight Nights,https://youtube.com/shorts/q7gVZlkRAp0,
+98,mma,player,Israel Adesanya vs Alex Pereira,knockout;slowmo,fan,meta,SLOW MOTION ISRAEL ADESANYA KO PEREIRA UFC 287,Anthony June,https://youtube.com/shorts/kWoWoYzSJL8,
+99,mma,player,Leon Edwards vs Kamaru Usman,knockout;slowmo,fan,meta,Leon Edwards ONE IN A MILLION HEADKICK KO vs Kamaru Usman - SUPER SLOW MO,MMA Clipmaster,https://youtube.com/shorts/XL0EwUKXmX4,
+100,mma,player,Conor McGregor vs Eddie Alvarez,action,fan,meta,Conor McGregor vs. Eddie Alvarez,KO.Vortex,https://youtube.com/shorts/bDwzxs6H_R8,
+101,mma,player,Ronda Rousey vs Bethe Correia,knockout,fan,meta,Ronda Rousey vs. Bethe Correia,KO.Library,https://youtube.com/shorts/khKthZLQDR0,
+102,mma,generic,UFC,knockout,fan,meta,BRUTAL 35 Second K.O DWCS W3,KlayMMA,https://youtube.com/shorts/GJTFJPVUyu0,
+103,muaythai,generic,Muay Thai,knockout;slowmo,fan,meta,Muay Thai Jumping Elbow Ultra Slow-motion 960 Fps,Muay Thai Galaxy,https://youtube.com/shorts/nJeOV-aJG5I,
+104,muaythai,generic,Muay Thai,knockout;slowmo,fan,meta,Devastating Elbow KO in Muay Thai Slow Motion,Muay Thai Galaxy,https://youtube.com/shorts/LUrl8dH3TDE,
+105,muaythai,generic,Muay Thai,knockout,fan,meta,"One Head Kick, One Knockdown - Muay Thai Highlight",Gold Standard Muay Thai,https://youtube.com/shorts/8v0AHQMDHYc,
+106,muaythai,player,Tawanchai,highlights,fan,meta,tawanchai moment,HighlightSportID,https://youtube.com/shorts/ISNYVpOYRb4,
+107,muaythai,generic,Muay Thai,highlights,fan,meta,CODAZO,Nak Su Fights,https://youtube.com/shorts/GAEdFQ-UHZk,
+108,dota2,team,Team Spirit,emotion;celebration,fan,meta,Old but gold team spirit vs. Team Vision in the international 2026 grand finals dota 2,CerChip OFFICIAL,https://youtube.com/shorts/Uq-giB2q-kM,
+109,dota2,player,Yatoro,emotion,fan,meta,Yatoro: I am a Professional! [TEAMSPEAK],IV,https://youtube.com/shorts/by0Mm4oRCOk,
+110,dota2,team,Team Spirit,emotion,fan,meta,emotions-realization #teamspirit #theinternational #ti10,Why ev,https://youtube.com/shorts/MhCk5i5vF-Y,
+111,dota2,generic,Team Liquid,emotion,fan,meta,One of the Saddest Moment of The International 2022 - Liquid Vs Thunder Awaken,Dota Shorts,https://youtube.com/shorts/VAOBEBD4Fkc,
+112,dota2,player,SumaiL,emotion,fan,meta,SumaiL actually cries on stream during Dota 2 match,Moments to remember,https://youtube.com/shorts/SNNcHOl_TK8,
+113,dota2,generic,The International,emotion,fan,meta,Backstage Reaction as Micke survives on 1 HP,DOTA PERSPECTIVE,https://youtube.com/shorts/p2iiiyEqgGw,
+114,lol,player,Faker,emotion,fan,meta,Faker sees his past as Keria cries,T1 fan clip,https://youtube.com/shorts/R0IYaMZL7js,
+115,lol,player,Keria,emotion,fan,meta,Keria EXPLODES after T1 vs GenG Ending #worlds2024,Ashley Kang,https://youtube.com/shorts/wqMD5bBL0L0,
+116,lol,player,Faker,emotion,fan,meta,The Worlds Loss Faker Couldn't Hide,LeooKnightus,https://youtube.com/shorts/q19a2n-FZPQ,
+117,lol,player,Caliste,celebration;emotion,official,meta,Caliste gets a pentakill with such nonchalance,LoL Esports,https://youtube.com/shorts/SOjaxKt6reM,
+118,lol,player,Caps,emotion,fan,meta,Caps Enters the LoL Hall of Legends!,PCGamesN,https://youtube.com/shorts/hQ_0rcTEvbA,
+119,lol,generic,LoL Esports,emotion,fan,meta,There's nothing worse in the world than losing at Worlds,TheBausffs Highlights,https://youtube.com/shorts/P7EkMTyiCQo,
+120,valorant,team,TYLOO,celebration,official,meta,TYLOO picked up a trophy on their way to VALORANT Champions Shanghai,VALORANT Champions Tour,https://youtube.com/shorts/pw3cgY--nD8,
+121,valorant,team,LOUD,emotion;celebration,fan,meta,VCT 2022 Valorant winning moment LOUD from Brazil,smcyaseeTV,https://youtube.com/shorts/35iaEtoJsxo,
+122,valorant,team,Paper Rex,emotion,fan,meta,PRX Alecks's Emotional Roller-coaster (Paper Rex vs Team Heretics) VCT masters Madrid,AstaFlux,https://youtube.com/shorts/j_xMwotHRJI,
+123,valorant,team,Fnatic,celebration,fan,meta,Fnatic Boaster always has the best celebrations,ATapAway,https://youtube.com/shorts/MEgdYEGfJdU,
+124,valorant,generic,VCT Americas,celebration,official,meta,Love it when the coaches get just as excited as the pros,VALORANT Champions Tour Americas,https://youtube.com/shorts/SoQQaEH96JE,
+125,valorant,team,Fnatic,emotion,fan,meta,Boaster Reacts to FNATIC Vs LOUD Loss,Avalon,https://youtube.com/shorts/nOF3h0j3JLM,
+126,football,generic,UEFA,goal,official,eye,INCREDIBLE solo goal 😳,UEFA,https://youtube.com/shorts/QWobKDI5KIc,
+127,football,player,Cristiano Ronaldo,skills;goal,fan,eye,🔥 Ronaldo’s Signature Step Over & Stunning Goal! ⚡🎯 | Pure Football Magic,Portugal F.C.,https://youtube.com/shorts/VAsGZ1PeWUs,
+128,football,player,Cristiano Ronaldo,skills;slowmo,fan,eye,Cristiano Ronaldo high jump ||♥️||,WORLD OF OUTFITS,https://youtube.com/shorts/NXW_QLRegOM,
+129,football,player,Lionel Messi,skills,fan,eye,Prime Messi in Last Minute 😈,SH10Comps,https://youtube.com/shorts/_l_-vU4VvW8,
+130,football,player,Cristiano Ronaldo,goal;skills,fan,eye,He Sat Them Down One by One and Finished Ice-Cold 🔥,SportsFlow,https://youtube.com/shorts/5nBj20enoRY,
+131,football,player,Lionel Messi,skills;celebration,fan,eye,Messi x New Trend 🔥😮‍💨,Shady_Edit,https://youtube.com/shorts/xmSgANHAgZ8,
+132,football,player,Neymar,skills,fan,meta,Neymar Jr 4K Skills 🔥 | Insane Dribbles ⚽,Aloneyt-7h,https://youtube.com/shorts/wEz0K7NTHqQ,
+133,football,generic,Football,skills;slowmo,fan,meta,Smoothest Transitions in Football 🥶,Skiller 90,https://youtube.com/shorts/goB5wzxbr7I,
+134,football,player,Vinicius Junior,skills,official,meta,INSANE VINI 🌠 #skills #realmadrid,LALIGA EA SPORTS,https://youtube.com/shorts/6HDkDiLcotw,
+135,football,generic,Football,action,official,meta,4K 100fps 360° Football Action | DJI Osmo 360,DJI,https://youtube.com/shorts/jr5HBGmQAs0,
+136,basketball,player,Richaun Holmes,dunk;slowmo,fan,meta,Richaun Holmes best pregame slow motion dunk 🔥😍🏀,nba plays today,https://youtube.com/shorts/Cfy5t9od_80,
+137,basketball,player,Kyrie Irving,skills;slowmo,fan,meta,Kyrie Irving slow motion NBA highlights,Just Basketball,https://youtube.com/shorts/IURfqpDO7Q0,
+138,basketball,player,Zion Williamson,dunk;slowmo,fan,meta,Zion Williamson 360 windmill dunk slow motion 💣,iLove,https://youtube.com/shorts/98mIl0PXI3o,
+139,basketball,generic,NBA,dunk;slowmo,fan,meta,slow motion game boys 😎,Sports Freekze,https://youtube.com/shorts/4Mfn9n6DbUc,
+140,basketball,generic,NBA,dunk;slowmo,fan,meta,slow mo dunk and normal speed dunk and very fast speed dunk,Endzone productions,https://youtube.com/shorts/vUyFO_Lx81k,
+141,basketball,player,Jaylen Brown,dunk;slowmo,fan,meta,Jaylen Brown dunk really looks nice in slow-mo,NBAFlix,https://youtube.com/shorts/sC10-TkFBCc,
+142,basketball,player,LeBron James,slowmo,official,eye,LeBron... Courtside. Slow motion. BUCKETS! #Shorts,NBA Europe,https://youtube.com/shorts/ff0HtErK0XI,
+143,basketball,player,Stephen Curry,skills;slowmo,fan,meta,Steph Curry Shot Slow Motion | Shot path,Khurram Sultan,https://youtube.com/shorts/WDnT5lF745w,
+144,basketball,player,Anthony Edwards,dunk,fan,meta,The Best Anthony Edwards Dunks 🤯,Josh Englert,https://youtube.com/shorts/ZZyz9HrFSDI,
+145,basketball,generic,Basketball,slowmo,fan,meta,Basketball shot in slow motion,ARCTIC DAKOTA,https://youtube.com/shorts/tk0Oaf3qDUM,
+146,hockey,generic,Hockey,slowmo,fan,meta,Slo Mo Slapshot,JSwizz11es,https://youtube.com/shorts/8Ge5RThoMrk,
+147,hockey,generic,Hockey,skills,fan,meta,A cinematic breakdown of iconic shootout goals,Ice IQ,https://youtube.com/shorts/78EECd-Lo-k,
+148,hockey,generic,Hockey,skills,fan,meta,Super Shots player #hockey,Top Buzz USA,https://youtube.com/shorts/5KGO9Hlpgfk,
+149,hockey,generic,Hockey,slowmo,fan,meta,I Hate It When You Can't Stop It And Have To Watch It In Slow Motion,HockeyHelge,https://youtube.com/shorts/iQddNCiQjk0,
+150,hockey,player,Connor McDavid,skills,fan,meta,Connor McDavid's insane speed + wrist shot training,Game Time Clips,https://youtube.com/shorts/LalPnhjioZo,
+151,hockey,player,Mitch Marner,entrance,broadcaster,meta,Mitch Marner Warmup Spins 🕺,SPORTSNET,https://youtube.com/shorts/9APjH0-Atpw,
+152,hockey,player,Connor Bedard,skills,fan,meta,Connor Bedard's shooting drill 🎯🏒,Dave Sport,https://youtube.com/shorts/PoWl4ydPSbE,
+153,hockey,team,Seattle Kraken,action,official,eye,zoom zoom ⚡️ #SeattleKraken #NHL,Seattle Kraken,https://youtube.com/shorts/AvcgGCHVCDo,
+154,hockey,generic,Hockey,goal;skills,fan,meta,combination + GOAL!!! 😳🔥,Only Athlete,https://youtube.com/shorts/xllmcWx6hU0,
+155,hockey,generic,Hockey,skills,fan,meta,Smooth 😎 #hockey #trickshots,Artur Masalimov,https://youtube.com/shorts/LqV1BiyOGlM,
+156,mma,generic,UFC 330,knockout;slowmo,fan,meta,UFC 330's Most INSANE Moments in Slow Motion 🔥🥊,KO Fight Rush,https://youtube.com/shorts/S0Nb2YJ6gjw,
+157,mma,player,Alex Pereira,slowmo,fan,meta,Cold face. Violent hands. Alex Pereira #cinematic,N.Zoii_,https://youtube.com/shorts/dGRhZRN5wsU,
+158,mma,player,Edson Barboza,highlights;slowmo,fan,meta,Barboza Retirement Fight | Edson Barboza UFC Edit | 4K 120FPS,MMA Legends,https://youtube.com/shorts/EO_G4QSkw-k,
+159,mma,player,Conor McGregor,knockout;slowmo,fan,meta,Conor McGregor 13 SECOND KNOCKOUT vs Jose Aldo - Super Slow Mo,MMA Clipmaster,https://youtube.com/shorts/fo1zxSvLmJ4,
+160,mma,player,Ilia Topuria,knockout;slowmo,broadcaster,meta,Slow Mo: Ilia Topuria's KO Of Charles Oliveira 💥,SPORTSNET,https://youtube.com/shorts/V19R_CyRooU,
+161,mma,generic,UFC,slowmo,broadcaster,meta,Slow-mo shoey 👟,ESPN MMA,https://youtube.com/shorts/HB8korpqojo,
+162,mma,player,Jon Jones,knockout;slowmo,fan,meta,Jon Jones vs Stipe Miocic Slomo Highlights,Zeilen aus Gold,https://youtube.com/shorts/MKuGZPeiGUI,
+163,mma,generic,UFC,knockout,official,eye,Dude... this knee sounded SO LOUD! 😳 #nocommentary,UFC,https://youtube.com/shorts/gfmFLHyLBlU,
+164,mma,player,Islam Makhachev,knockout,fan,meta,From soft poses to relentless UFC knockouts! #IslamMakhachev,UFCzic,https://youtube.com/shorts/cw4AOcF_NEk,
+165,mma,player,Yoel Romero,knockout,fan,meta,Yoel Romero vs Chris Weidman highlight #flying #knee,KNOCKOUT-KINGZZ,https://youtube.com/shorts/_9T1cBjG0nU,
+166,f1,team,Mercedes-AMG Petronas,celebration;slowmo,official,meta,Champagne spray always looks better in slow mo 🍾,Mercedes-AMG Petronas Formula One Team,https://youtube.com/shorts/uJGN_RcSfxI,
+167,f1,generic,Formula 1,slowmo,fan,meta,F1 Car DRIFTS Through Rain at Golden Hour | Cinematic Racing,Content Pulse 99,https://youtube.com/shorts/B9A1rBpGheo,
+168,f1,team,Mercedes-AMG Petronas,action,official,eye,The Most Beautiful Sound In The World 😍,Mercedes-AMG Petronas Formula One Team,https://youtube.com/shorts/UD0byvAvY8w,
+169,f1,generic,Formula 1,action,fan,meta,0-200 km/h in 3.9s in F1 Car Onboard,Kamil Junior,https://youtube.com/shorts/YxUe3lSxarQ,
+170,f1,generic,Formula 1,action,fan,meta,Monaco's Swimming Pool Chicane: F1's Greatest Camera Angle,My F1 Obsession,https://youtube.com/shorts/fXTwruSkkJY,
+171,f1,generic,Formula 1,slowmo,fan,meta,slow vs fast corner in f1 😍🔥,F1 IS LOVE,https://youtube.com/shorts/nFsHRnb6jfw,
+172,f1,generic,Formula 1,highlights,fan,meta,Formula 1 Edit | Sem Controle slowed,Tikk Editx,https://youtube.com/shorts/7MR8pEnwpI8,
+173,f1,player,Kimi Antonelli,action;slowmo,fan,meta,so cinematic 🏎❤️,AntonelliF1,https://youtube.com/shorts/BPm8G1MjUHM,
+174,f1,generic,Formula 1,highlights,fan,meta,The most cinematic F1 marshal moment 🏁 Zandvoort,ApexSport,https://youtube.com/shorts/bGOr0DeRcNI,
+175,f1,player,Max Verstappen,highlights,fan,meta,Max Verstappen: Unstoppable Force 🦁 | F1 Edit,SNIPSNAX,https://youtube.com/shorts/2utxs00Q110,
+176,tennis,player,Jannik Sinner,slowmo,fan,meta,Jannik Sinner serve in slow motion 🚀,Hit With Me - Tennis Media,https://youtube.com/shorts/Xuq5TWBVPm4,
+177,tennis,player,Carlos Alcaraz,skills;slowmo,fan,meta,Carlos Alcaraz Backhand Slow Motion,ATennis,https://youtube.com/shorts/ZWhJ34aLWzc,
+178,tennis,generic,US Open,skills,official,eye,RIDICULOUS drop shot! 😮‍💨,US Open Tennis Championships,https://youtube.com/shorts/GItLCmlMe7Q,
+179,tennis,player,Carlos Alcaraz,skills;slowmo,fan,meta,Carlos Alcaraz slow-motion forehand 💪,Hit With Me - Tennis Media,https://youtube.com/shorts/_Auu2hKtpBg,
+180,tennis,player,Novak Djokovic,skills;slowmo,fan,meta,The Djoker's Serve (slow motion),Essential Tennis,https://youtube.com/shorts/bldnQQwQh2I,
+181,tennis,player,Juan Martin del Potro,skills;slowmo,fan,meta,LETHAL Del Potro Forehand Super Slow Motion!,Topspin Tennis,https://youtube.com/shorts/TkdsvJXUdPI,
+182,tennis,generic,Tennis,slowmo,fan,meta,Tennis Forehand power session,Stunning sports,https://youtube.com/shorts/Ru0So8W369M,
+183,tennis,player,Carlos Alcaraz,slowmo;emotion,fan,meta,Alcaraz Slow Mo #usopen #slowmotion,Cinematic Short Films,https://youtube.com/shorts/ZyYt8_VNv5w,
+184,tennis,generic,Tennis,highlights,fan,meta,What an AMAZING RALLY 🥵!,ADtennis,https://youtube.com/shorts/jv5lF0YLEz8,
+185,tennis,player,Sinner vs Alcaraz,skills;slowmo,fan,meta,Sinner vs Alcaraz Forehand | Slow Motion Comparison,Quick Tennis,https://youtube.com/shorts/J8gIQTL9X_U,
+186,dota2,generic,Ancient Apparition,skills,fan,eye,Ancient Apparition — The Eternal Kaldr | Dota 2 Hero Visualizer,Dota Cinematic Universe,https://youtube.com/shorts/gN3QKxJ-yz4,
+187,dota2,generic,Dota 2,action,fan,meta,Anti-Mage vs Terrorblade | Dota 2 Cinematic Movie #cinematic,Mythos Cinema CGI,https://youtube.com/shorts/aXqu27DJguU,
+188,dota2,generic,Dota 2,action,fan,meta,dota 2 cinema,Timeless,https://youtube.com/shorts/D3Zg86YEGro,
+189,dota2,player,Topson,highlights,official,meta,TOPSON OR CAPTAIN AMERICA? 🛡,OG Esports,https://youtube.com/shorts/Tswh-T4oug8,
+190,dota2,generic,Dota 2,highlights,fan,meta,"One Lich Ult, Everyone Dead 😱💥",Rampage Clip TV,https://youtube.com/shorts/K7WQNbvDEOA,
+191,dota2,player,Cr1t,highlights,fan,meta,Falcons Cr1t THE SPACE CREATOR 🌌,Pirate,https://youtube.com/shorts/YIjNowdY4AI,
+192,dota2,generic,Mirana,highlights,fan,meta,Mirana's Arrow Never Misses! 🎯🔥,Kenjutso,https://youtube.com/shorts/Y6lr4Q0TLlg,
+193,dota2,generic,Ogre Magi,highlights,fan,meta,Ogre Magi Unleashed! 😈🔥,DotaMorph Nexus,https://youtube.com/shorts/WwWPGtKDOzU,
+194,dota2,generic,Faceless Void,highlights,fan,meta,Faceless Void's Chrono Was Perfect 🤯🔥,RampageCLipTV2,https://youtube.com/shorts/HViqnMVDU8o,
+195,dota2,generic,Faceless Void,highlights,fan,meta,Faceless Void's Chrono Was Devastating ⏳💀,Rampage Clip TV,https://youtube.com/shorts/6bUu9Gk0cmE,
+196,boxing,generic,Boxing,knockout;slowmo,broadcaster,eye,Super Slow Motion Knockout,TrillerTV,https://youtube.com/shorts/uQM7q0rnb1E,
+197,boxing,player,Jared Anderson,knockout;slowmo,fan,eye,Jared Anderson Super Slow Motion Brutal KOs Ibeh,sweetscience,https://youtube.com/shorts/bpmpMqjYg7g,
+198,boxing,generic,Boxing,slowmo,fan,eye,Boxing in slow motion,CRENTHLIFE,https://youtube.com/shorts/Q-8gBTZm5Lc,
+199,boxing,generic,Boxing,knockout;slowmo,broadcaster,eye,Knockout in super slow motion,FCCtv,https://youtube.com/shorts/0YtAtV0pFCs,
+200,boxing,player,Israil Madrimov vs Michel Soro,highlights;slowmo,fan,eye,HIGHLIGHT: Israil Madrimov vs Michel Soro | Replay in Slow Mo,Thug Me White Lion 2,https://youtube.com/shorts/BxCZGne8YvM,
+201,boxing,player,Muhammad Ali vs Joe Frazier,knockout;slowmo,fan,eye,Muhammad Ali Vs Joe Frazier Knockdown Slow Motion,Boxing TV,https://youtube.com/shorts/6SQ1oZUK4kY,
+202,boxing,player,Manny Pacquiao vs Timothy Bradley,knockout;slowmo,fan,eye,Pacquiao vs Bradley slow motion knockout,Leeam sports tv,https://youtube.com/shorts/H7130sAM9UI,
+203,boxing,player,Mike Tyson,punch;slowmo,fan,eye,Mike Tyson delivers a devastating uppercut with precision and power,Sweet.smooth.boxing,https://youtube.com/shorts/kWTgMSQcsGY,
+204,boxing,player,Mike Tyson vs Evander Holyfield,slowmo,fan,eye,Mike Tyson vs Holyfield Slow Motion,CALEB Boxing,https://youtube.com/shorts/o_R7aWRsTtM,
+205,boxing,player,Muhammad Ali vs Sonny Liston,punch;slowmo,fan,eye,Muhammad Ali V Sonny Liston Phantom Punch,THD Sports,https://youtube.com/shorts/UgSb5B7sAKI,
+206,boxing,player,Muhammad Ali,punch;slowmo,fan,eye,Ali's phantom punch in super slow motion,Ahmadtarekbxng,https://youtube.com/shorts/_8VDLk6bwyI,
+207,boxing,player,Diego Pacheco vs Adrian Luna,highlights;slowmo,fan,eye,World Boxing Highlight: Diego Pacheco vs Adrian Luna | Replay in Slow Mo,Thug Me White Lion 2,https://youtube.com/shorts/3XrrlYPbcdY,
+208,dota2,generic,Alchemist,skills,fan,eye,Alchemist — Chemical Rage | Dota 2 Hero Visualizer,Dota Cinematic Universe,https://youtube.com/shorts/M3JmPXQQazg,
+209,dota2,generic,Dota 2,action,fan,eye,"The World, but it's SFM Dota 2 cinematic",eMRK,https://youtube.com/shorts/kknpD6lRwLk,
+210,dota2,generic,Dota 2,action,fan,eye,What If Dota Heroes Were Real? | Ultra Realistic AI Cinematic,MOSIKA,https://youtube.com/shorts/7c84bilcyEE,
+211,dota2,generic,Dota 2,action,fan,eye,dota 2 cinema pudge medusa and phantom assassin,Timeless,https://youtube.com/shorts/lw6d2BaPnsQ,
+212,dota2,generic,Dota 2,action,fan,eye,4 Dota Skills Reimagined in Real Life,MOSIKA,https://youtube.com/shorts/6Yocz1jP4CE,
+213,dota2,generic,Abaddon,skills,fan,eye,Abaddon — Lord of Avernus | Dota 2 Hero Visualizer,Dota Cinematic Universe,https://youtube.com/shorts/Xt_QWcCvcOM,
+214,dota2,generic,Phantom Assassin,skills,fan,eye,Hero Spotlight - Phantom Assassin,AncientFramesKing,https://youtube.com/shorts/LHXPhwHYhJc,
+215,dota2,generic,Dota 2,action,fan,eye,Dota Event Movie,Tavern Cinema,https://youtube.com/shorts/Hgd562IIdR8,
+216,dota2,generic,Drow Ranger,skills,fan,eye,Dread Retribution Drow Ranger Arcana Intro,MidasMITTY,https://youtube.com/shorts/19lKfnkYwW4,
+217,dota2,generic,Drow Ranger,skills,fan,eye,Drow Ranger ARCANA (Style 2),Cyborg M - Dota 2,https://youtube.com/shorts/TI1EXdMJGHw,
+218,dota2,generic,Juggernaut,skills,fan,eye,Hero Spotlight - Juggernaut,AncientFramesKing,https://youtube.com/shorts/4oTKeOOljBY,
+219,dota2,generic,Invoker,skills,fan,eye,Hero Spotlight - Invoker,AncientFramesKing,https://youtube.com/shorts/7mgJRtsl2_w,
+220,dota2,generic,Phantom Assassin,skills,fan,eye,Dota 2 Exile Unveiled | Phantom Assassin Persona Intro,MidasMITTY,https://youtube.com/shorts/CJVmU98tS4M,
+221,dota2,generic,Dota 2,action,fan,eye,Dota 2 Short Film,Pinoy DotA,https://youtube.com/shorts/HIOfj5kuIC0,
+222,hockey,team,Washington Capitals vs Los Angeles Kings,goal;slowmo,broadcaster,eye,Alex Ovechkin scores career goal No. 816 on one-timer vs. Kings #shorts,Monumental Sports Network,https://youtube.com/shorts/fLlHXjrFG40,20260826-match
+223,hockey,team,Edmonton Oilers vs Dallas Stars,skills;slowmo,official,eye,More McDavid MAGIC,NHL,https://youtube.com/shorts/awqBsNy0qCU,20260826-match
+224,tennis,player,Carlos Alcaraz vs Arthur Fils,skills;slowmo,fan,eye,Alcaraz drop volley slow mo against Arthur Fils,GOATS tennis,https://youtube.com/shorts/UYG_xsTE5J4,20260826-match
+225,football,team,Liverpool vs Manchester United,goal;slowmo,broadcaster,eye,Cody Gakpo's equaliser against Man United in slow-motion,SuperSport,https://youtube.com/shorts/Xi3Q6MOwHLY,20260826-match
+226,football,team,Arsenal vs Nottingham Forest,goal;slowmo,official,eye,Zubimendi volley in super slow mo,Arsenal,https://youtube.com/shorts/Qdk3H5b2tfc,20260826-match
+227,basketball,team,Dallas Mavericks vs New Orleans Pelicans,skills;slowmo,fan,eye,Luka Magic in slow motion vs Pelicans (11.19.24),NBA LIV3,https://youtube.com/shorts/qT3zW_IbpHE,20260826-match
+228,basketball,team,Russell Westbrook vs New Orleans Pelicans,action;slowmo,fan,eye,Westbrook vs New Orleans defense in slow-motion,HoopScorers,https://youtube.com/shorts/9ofDJ8NE1FI,20260826-match
