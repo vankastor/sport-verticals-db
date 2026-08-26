@@ -227,3 +227,6 @@ id,sport,subject_type,subject,style,source_type,verified,title,channel,url,batch
 226,football,team,Arsenal vs Nottingham Forest,goal;slowmo,official,eye,Zubimendi volley in super slow mo,Arsenal,https://youtube.com/shorts/Qdk3H5b2tfc,20260826-match
 227,basketball,team,Dallas Mavericks vs New Orleans Pelicans,skills;slowmo,fan,eye,Luka Magic in slow motion vs Pelicans (11.19.24),NBA LIV3,https://youtube.com/shorts/qT3zW_IbpHE,20260826-match
 228,basketball,team,Russell Westbrook vs New Orleans Pelicans,action;slowmo,fan,eye,Westbrook vs New Orleans defense in slow-motion,HoopScorers,https://youtube.com/shorts/9ofDJ8NE1FI,20260826-match
+229,hockey,team,Montreal Canadiens (Lane Hutson goal),goal;slowmo,official,eye,Bench couldn't BELIEVE this Hutson goal,NHL,https://youtube.com/shorts/bVoDbqqrQ8c,20260826-match
+230,hockey,team,St. Louis Blues,goal;slowmo,official,eye,Crispy,NHL,https://youtube.com/shorts/dtQ3ULOXTG4,20260826-match
+231,hockey,player,Washington Capitals — Evgeny Kuznetsov (shootout),skills;slowmo,official,eye,Snooznetsov,NHL,https://youtube.com/shorts/0T1HWQuAFB8,20260826-match
