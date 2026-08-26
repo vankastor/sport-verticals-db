@@ -7,6 +7,25 @@
 - **Источник:** YouTube Shorts (поиск ego lite) + oembed (канал/заголовок)
 - **Файл базы:** `videos.csv` (открывается в Google Sheets / Excel; фильтруется grep)
 
+## Публичный доступ (открывается из любой сети)
+
+- **Страница (поиск/фильтры):** https://vankastor.github.io/sport-verticals-db/
+- **API (JSON, CORS `*`):** https://vankastor.github.io/sport-verticals-db/videos.json
+
+Хостинг — GitHub Pages (репозиторий `vankastor/sport-verticals-db`). Обновление:
+правим `videos.csv` → `python3 build_page.py` → `git add -A && git commit && git push`.
+Через ~1 минуту Pages пересобирается.
+
+**Пример использования API:**
+```bash
+curl -s https://vankastor.github.io/sport-verticals-db/videos.json | jq '.[] | select(.sport=="tennis")'
+```
+
+> В `api/videos.js` лежит serverless-версия API с фильтрами `?sport=&source_type=&q=&limit=`
+> (для Vercel/Node). На GitHub Pages она не исполняется — Pages отдаёт статический
+> `videos.json`, а фильтрация делается на странице/на стороне клиента.
+
+
 ## Колонки
 
 | Колонка | Значения | Описание |
