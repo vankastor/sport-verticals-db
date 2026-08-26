@@ -89,3 +89,20 @@ id,sport,subject_type,subject,style,source_type,verified,title,channel,url
 88,football,player,Vini Jr,skills;slowmo,fan,meta,"Vini Goal vs Liverpool w Slow Motion","@nextgemballer",https://youtube.com/shorts/2m5R3O_LKpw
 89,tennis,player,Halep,action;slowmo,fan,meta,"Simona Halep serve in slow motion","ViewsoftheWorld",https://youtube.com/shorts/uLjWZCEoMGs
 90,basketball,team,EuroLeague,action,fan,meta,"Mike James Makes EuroLeague History","EverythingBasketball",https://youtube.com/shorts/8CXNktuwA4s
+91,boxing,player,Manny Pacquiao,punch;slowmo,official,meta,PACQUIAO PUNCHES IN SLOW-MO,Team Pacquiao,https://youtube.com/shorts/rcIgmc2Ek-U
+92,boxing,player,Isaac Cruz,punch;slowmo,official,meta,Isaac Cruz Lands a CRUSHING Left Hook (In Super Slow Motion),Premier Boxing Champions,https://youtube.com/shorts/3xJQpf24fJo
+93,boxing,player,Gervonta Davis,punch;slowmo,fan,meta,Gervonta Davis Signature Uppercut In Super Slow Motion,sweetscience,https://youtube.com/shorts/O21PHgQEb08
+94,boxing,player,Usyk vs Dubois,punch;slowmo,fan,meta,Usyk vs Dubois 2 - INSANE Double Punch in Slow Motion,IF SPORT,https://youtube.com/shorts/fUqFYuGxI5c
+95,boxing,player,Mike Tyson,knockout;slowmo,fan,meta,Mike Tyson Knockout in Slow mo,SportsWrapTV with Omane,https://youtube.com/shorts/EW6w3Yb07fo
+96,boxing,player,Andre Ward,punch;slowmo,fan,meta,Andre Ward Beautiful Counter Punch Slow Motion,Bxxing,https://youtube.com/shorts/g1DYnVuFr5A
+97,mma,player,Ilia Topuria vs Max Holloway,knockout;slowmo,fan,meta,Ilia Topuria KOs Max Holloway in Slow Motion,The Fight Nights,https://youtube.com/shorts/q7gVZlkRAp0
+98,mma,player,Israel Adesanya vs Alex Pereira,knockout;slowmo,fan,meta,SLOW MOTION ISRAEL ADESANYA KO PEREIRA UFC 287,Anthony June,https://youtube.com/shorts/kWoWoYzSJL8
+99,mma,player,Leon Edwards vs Kamaru Usman,knockout;slowmo,fan,meta,Leon Edwards ONE IN A MILLION HEADKICK KO vs Kamaru Usman - SUPER SLOW MO,MMA Clipmaster,https://youtube.com/shorts/XL0EwUKXmX4
+100,mma,player,Conor McGregor vs Eddie Alvarez,action,fan,meta,Conor McGregor vs. Eddie Alvarez,KO.Vortex,https://youtube.com/shorts/bDwzxs6H_R8
+101,mma,player,Ronda Rousey vs Bethe Correia,knockout,fan,meta,Ronda Rousey vs. Bethe Correia,KO.Library,https://youtube.com/shorts/khKthZLQDR0
+102,mma,generic,UFC,knockout,fan,meta,BRUTAL 35 Second K.O DWCS W3,KlayMMA,https://youtube.com/shorts/GJTFJPVUyu0
+103,muaythai,generic,Muay Thai,knockout;slowmo,fan,meta,Muay Thai Jumping Elbow Ultra Slow-motion 960 Fps,Muay Thai Galaxy,https://youtube.com/shorts/nJeOV-aJG5I
+104,muaythai,generic,Muay Thai,knockout;slowmo,fan,meta,Devastating Elbow KO in Muay Thai Slow Motion,Muay Thai Galaxy,https://youtube.com/shorts/LUrl8dH3TDE
+105,muaythai,generic,Muay Thai,knockout,fan,meta,"One Head Kick, One Knockdown - Muay Thai Highlight",Gold Standard Muay Thai,https://youtube.com/shorts/8v0AHQMDHYc
+106,muaythai,player,Tawanchai,highlights,fan,meta,tawanchai moment,HighlightSportID,https://youtube.com/shorts/ISNYVpOYRb4
+107,muaythai,generic,Muay Thai,highlights,fan,meta,CODAZO,Nak Su Fights,https://youtube.com/shorts/GAEdFQ-UHZk

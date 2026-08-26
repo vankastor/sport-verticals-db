@@ -31,10 +31,10 @@ curl -s https://vankastor.github.io/sport-verticals-db/videos.json | jq '.[] | s
 | Колонка | Значения | Описание |
 |---|---|---|
 | `id` | число | Уникальный номер записи |
-| `sport` | football / hockey / tennis / basketball / cs | Вид спорта |
+| `sport` | football / hockey / tennis / basketball / cs / boxing / mma / muaythai | Вид спорта |
 | `subject_type` | team / player / generic | Что в центре: команда, игрок или общий момент |
 | `subject` | текст | Название команды или имя игрока |
-| `style` | celebration, action, goal, skills, dunk, entrance, emotion, slowmo (через `;`) | Тип момента |
+| `style` | celebration, action, goal, skills, dunk, entrance, emotion, slowmo, knockout, punch, highlights (через `;`) | Тип момента |
 | `source_type` | official / broadcaster / fan | Тип канала-источника |
 | `verified` | eye / meta | `eye` = просмотрено глазами, `meta` = по метаданным (заголовок/канал) |
 | `title` | текст | Заголовок ролика |
@@ -74,6 +74,9 @@ grep ',hockey,' videos.csv | grep ',official,'
 - **Counter-Strike:** это игровой геймплей → HUD/killfeed всегда в кадре (без графики невозможно);
   для CS official = официальные турнирные/командные каналы (BLAST, ESL, NAVI CS2).
 - **Теннис** — индивидуальный спорт: `subject` = игрок, «команда» неприменима.
+- **Единоборства** (boxing/mma/muaythai) — индивидуальные: `subject` = боец или пара «X vs Y».
+  Хайлайты часто с графикой/логотипами промоушена; `official` = каналы промоушенов/бойцов
+  (UFC/PBC/ONE/Team Pacquiao), slo-mo — приоритет. Все записи — реальные проф-бойцы/бои.
 
 ## Пополнение
 
