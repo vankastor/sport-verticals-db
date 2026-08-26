@@ -41,7 +41,7 @@
 <body>
 <header>
   <h1>База вертикальных спорт-видео</h1>
-  <div class="sub">Референсы под видео-анонсы «Лига Ставок» · собрано ego lite · <a class="link" href="/api/videos" target="_blank" rel="noopener">API</a></div>
+  <div class="sub">Референсы под видео-анонсы «Лига Ставок» · собрано ego lite · <a class="link" href="videos.json" target="_blank" rel="noopener">API (JSON)</a></div>
 </header>
 <div class="bar">
   <input id="q" placeholder="Поиск: команда, игрок, канал, заголовок…" autofocus>
@@ -90,8 +90,8 @@ function render(){
   countEl.textContent = list.length + " из " + DATA.length;
 }
 
-fetch("/api/videos").then(r => r.json()).then(d => {
-  DATA = d.results || [];
+fetch("videos.json").then(r => r.json()).then(d => {
+  DATA = Array.isArray(d) ? d : (d.results || []);
   [...new Set(DATA.map(r => r.sport))].sort().forEach(v => sportEl.add(new Option(v, v)));
   [...new Set(DATA.map(r => r.source_type))].sort().forEach(v => srcEl.add(new Option(v, v)));
   render();
