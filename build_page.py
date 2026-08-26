@@ -1,0 +1,127 @@
+#!/usr/bin/env python3
+"""Генерирует самодостаточный index.html из videos.csv.
+Данные встраиваются в HTML, чтобы страница открывалась по file:// без сервера.
+Запуск:  python3 build_page.py
+"""
+import csv, json, datetime, pathlib
+
+HERE = pathlib.Path(__file__).parent
+rows = list(csv.DictReader(open(HERE / "videos.csv", encoding="utf-8")))
+data_json = json.dumps(rows, ensure_ascii=False)
+built = datetime.date.today().isoformat()
+
+html = """<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>База вертикальных спорт-видео</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body { margin:0; font:14px/1.45 -apple-system,Segoe UI,Roboto,Arial,sans-serif;
+         background:#0f1115; color:#e6e9ef; }
+  header { padding:18px 20px 8px; }
+  h1 { margin:0 0 4px; font-size:20px; }
+  .sub { color:#8b93a7; font-size:12px; }
+  .bar { position:sticky; top:0; background:#0f1115; padding:12px 20px;
+         display:flex; gap:10px; flex-wrap:wrap; align-items:center;
+         border-bottom:1px solid #232838; z-index:5; }
+  input, select { background:#171b24; color:#e6e9ef; border:1px solid #2a3142;
+         border-radius:8px; padding:8px 10px; font-size:13px; }
+  input#q { flex:1; min-width:200px; }
+  .count { color:#8b93a7; font-size:12px; margin-left:auto; }
+  table { width:100%; border-collapse:collapse; }
+  th, td { text-align:left; padding:9px 12px; border-bottom:1px solid #1c212e;
+           vertical-align:top; }
+  th { position:sticky; top:57px; background:#12151d; color:#9aa3b8;
+       font-weight:600; font-size:12px; cursor:pointer; user-select:none; }
+  tr:hover td { background:#141926; }
+  a.link { color:#6ea8fe; text-decoration:none; font-weight:600; }
+  a.link:hover { text-decoration:underline; }
+  .tag { display:inline-block; padding:2px 8px; border-radius:999px; font-size:11px;
+         border:1px solid #2a3142; }
+  .official { background:#12351f; border-color:#1f5c33; color:#7ee2a4; }
+  .broadcaster { background:#123049; border-color:#1f5581; color:#7ec2f0; }
+  .fan { background:#3a2a12; border-color:#6b4a1f; color:#f0c67e; }
+  .sport { text-transform:capitalize; color:#c7cede; }
+  .muted { color:#8b93a7; }
+  .style-cell { color:#aab2c6; font-size:12px; }
+  @media (max-width:720px){ .hide-sm{ display:none; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>База вертикальных спорт-видео</h1>
+  <div class="sub">Референсы под видео-анонсы «Лига Ставок» · собрано ego lite · обновлено __BUILT__ · <a class="link" href="/api/videos" target="_blank" rel="noopener">API</a></div>
+</header>
+<div class="bar">
+  <input id="q" placeholder="Поиск: команда, игрок, канал, заголовок…" autofocus>
+  <select id="sport"><option value="">Все виды спорта</option></select>
+  <select id="src"><option value="">Все источники</option></select>
+  <span class="count" id="count"></span>
+</div>
+<table>
+  <thead><tr>
+    <th data-k="sport">Спорт</th>
+    <th data-k="subject">Команда / игрок</th>
+    <th data-k="style" class="hide-sm">Тип</th>
+    <th data-k="source_type">Источник</th>
+    <th data-k="channel" class="hide-sm">Канал</th>
+    <th data-k="title">Ролик</th>
+  </tr></thead>
+  <tbody id="rows"></tbody>
+</table>
+<script>
+const DATA = __DATA__;
+const $ = s => document.querySelector(s);
+const rowsEl = $("#rows"), qEl = $("#q"), sportEl = $("#sport"), srcEl = $("#src"), countEl = $("#count");
+let sortK = null, sortDir = 1;
+
+[...new Set(DATA.map(r => r.sport))].sort().forEach(v => sportEl.add(new Option(v, v)));
+[...new Set(DATA.map(r => r.source_type))].sort().forEach(v => srcEl.add(new Option(v, v)));
+
+function esc(s){ return (s||"").replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c])); }
+
+function render(){
+  const q = qEl.value.trim().toLowerCase();
+  const sp = sportEl.value, sr = srcEl.value;
+  let list = DATA.filter(r => {
+    if (sp && r.sport !== sp) return false;
+    if (sr && r.source_type !== sr) return false;
+    if (q){ const hay = (r.subject+" "+r.channel+" "+r.title+" "+r.style+" "+r.sport).toLowerCase();
+            if (!hay.includes(q)) return false; }
+    return true;
+  });
+  if (sortK){ list = [...list].sort((a,b)=> (a[sortK]||"").localeCompare(b[sortK]||"")*sortDir); }
+  rowsEl.innerHTML = list.map(r => `
+    <tr>
+      <td class="sport">${esc(r.sport)}</td>
+      <td>${esc(r.subject)} <span class="muted">${r.subject_type==='player'?'· игрок':r.subject_type==='team'?'· команда':''}</span></td>
+      <td class="style-cell hide-sm">${esc((r.style||'').replace(/;/g,', '))}</td>
+      <td><span class="tag ${r.source_type}">${esc(r.source_type)}</span></td>
+      <td class="muted hide-sm">${esc(r.channel)}</td>
+      <td><a class="link" href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a></td>
+    </tr>`).join("");
+  countEl.textContent = list.length + " из " + DATA.length;
+}
+qEl.oninput = sportEl.onchange = srcEl.onchange = render;
+document.querySelectorAll("th").forEach(th => th.onclick = () => {
+  const k = th.dataset.k; if(!k) return;
+  if (sortK===k) sortDir*=-1; else { sortK=k; sortDir=1; }
+  render();
+});
+render();
+</script>
+</body>
+</html>"""
+
+html = html.replace("__DATA__", data_json).replace("__BUILT__", built)
+out = HERE / "index.html"
+out.write_text(html, encoding="utf-8")
+print(f"wrote {out} with {len(rows)} rows")
+
+# Данные для API: тот же CSV → JSON. API остаётся синхронным с базой.
+json_out = HERE / "videos.json"
+json_out.write_text(json.dumps(rows, ensure_ascii=False), encoding="utf-8")
+print(f"wrote {json_out} with {len(rows)} rows")

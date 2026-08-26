@@ -1,0 +1,91 @@
+id,sport,subject_type,subject,style,source_type,verified,title,channel,url
+1,football,player,Mbappe,goal;slowmo,official,eye,"Mbappe's goal looks better in slow motion","FIFA",https://youtube.com/shorts/qmycqcrLazI
+2,football,team,Chelsea,goal,official,meta,"Cole Palmer's Moment of Brilliance","Premier League",https://youtube.com/shorts/dXlvlQO9Cfg
+3,football,team,Man City,skills,official,meta,"Doku gone in a flash","Man City",https://youtube.com/shorts/GLuvR62RCYU
+4,football,team,Brighton,goal,official,meta,"Joao Pedro Scores After 31 Seconds","Premier League",https://youtube.com/shorts/r1L7b66ogWM
+5,football,team,AFC Bournemouth,goal;slowmo,official,meta,"This slow-mo for Solanke's goal","AFC Bournemouth",https://youtube.com/shorts/lJVop_KD0sA
+6,football,team,Man City,skills;slowmo,broadcaster,meta,"Savinho's silky assist in SLOW-MO","SuperSport",https://youtube.com/shorts/RGZPGei3veE
+7,football,team,PSG,goal;slowmo,fan,meta,"Fabian Ruiz's Goal vs Arsenal Ultra Slow Motion","Trafootic",https://youtube.com/shorts/gPQThYimyEU
+8,football,generic,goalkeeper,action;slowmo,broadcaster,meta,"The best goalkeeper save in slow motion","ESPN FC",https://youtube.com/shorts/hCdh3es89fI
+9,football,team,Man City,action,official,meta,"When the crossbar saves you but you score an own goal","Premier League",https://youtube.com/shorts/unPFe0gij58
+10,football,team,Real Madrid,skills;slowmo,fan,meta,"Slowmo Vini Jr on the Break","Football Trailblazers",https://youtube.com/shorts/f9MJrnus4cU
+11,football,team,Arsenal,skills;slowmo,fan,meta,"The genius Bukayo Saka in slow motion","Arsenal football club news",https://youtube.com/shorts/nHBHbvMke-Q
+12,football,team,Barcelona,skills,official,meta,"Simply, Lamine Yamal","FC Barcelona",https://youtube.com/shorts/ZZMAPnX7I3Y
+13,football,team,Arsenal,celebration,official,meta,"ICONIC Arsenal goals celebrated in style","Arsenal",https://youtube.com/shorts/oAWFyNKY6gA
+14,football,team,Arsenal,goal;slowmo,official,meta,"Gabriel's goal in slow motion","Arsenal",https://youtube.com/shorts/TdVoLPfLjCI
+15,football,generic,Wembley,celebration;slowmo,official,meta,"Goal and celebration in slow mo is pure art","Wembley Stadium",https://youtube.com/shorts/02V7MmYyyao
+16,football,team,Liverpool,goal;slowmo,broadcaster,meta,"The perfect slow-mo angle of Saka's stunner v Liverpool","NBC Sports",https://youtube.com/shorts/VDqRaOANkUo
+17,football,team,Bayern,skills;slowmo,fan,meta,"Musiala in slow motion","athleticIshe",https://youtube.com/shorts/MGVmVUuSwlo
+18,football,team,Bayern,goal;slowmo,fan,meta,"Champions in slow motion","footy burst",https://youtube.com/shorts/Vgs9y6bb5jQ
+19,hockey,team,Neftekhimik,slowmo,official,meta,"Хоккей в slow-mo - это отдельный вид искусства","ХК Нефтехимик",https://youtube.com/shorts/32tpeXMLeew
+20,hockey,team,KHL,slowmo,official,meta,"Ну что я ещё могу (Радулов/Шалунов)","КХЛ",https://youtube.com/shorts/NmctTB6cwp8
+21,hockey,team,Ak Bars,action,official,meta,"Лучший пас сезона","Ak Bars",https://youtube.com/shorts/OTCtIbDr4IA
+22,hockey,team,Torpedo (ZhHL),skills,official,meta,"Немного красоты от Торпедо","ЖХЛ",https://youtube.com/shorts/Vf3kgCKDleI
+23,hockey,team,NHL,slowmo,official,meta,"Snipes in Slow Motion","NHL",https://youtube.com/shorts/oh6C94pdENA
+24,hockey,team,CHL,goal;slowmo,official,meta,"It's all about the drama","Champions Hockey League",https://youtube.com/shorts/Sj1jhHDXO0c
+25,hockey,team,HC Lugano,action;slowmo,official,meta,"Goalie was watching the finish in slow motion","National League",https://youtube.com/shorts/pgzSTUJk2Mk
+26,hockey,team,CHL,goal;slowmo,official,meta,"So many goals between these two","Champions Hockey League",https://youtube.com/shorts/XzwljO8_nTg
+27,hockey,team,KHL,action,fan,meta,"Unreal Hockey Deflection","KHL Highlights",https://youtube.com/shorts/ubIsu1V1xuc
+28,hockey,team,Avangard,action,fan,meta,"Проскуряков зарешал момент и спасение","Sergey Kolesov",https://youtube.com/shorts/N_fEqzm49t4
+29,hockey,team,Admiral,goal,fan,meta,"Гол в пустые ворота (Адмирал/Автомобилист)","Epic Gold",https://youtube.com/shorts/f51mzq3P5AY
+30,hockey,player,Connor Bedard,slowmo,fan,meta,"Connor Bedard is a beauty in slow mo","eyesHOCKEYspot",https://youtube.com/shorts/y9bMKdE0Tno
+31,tennis,player,Alcaraz,skills,official,meta,"Alcaraz with pure skill","Roland-Garros",https://youtube.com/shorts/BMtpAuH8H8M
+32,tennis,player,Shapovalov,action,broadcaster,meta,"Amazing Denis Shapovalov Jump Backhand Slow Mo","Tennis TV",https://youtube.com/shorts/beZNZQhvwBw
+33,tennis,player,Coco Gauff,celebration;slowmo,fan,meta,"Coco Gauff winning the Cincinnati Open in slow motion","Tennis Updates",https://youtube.com/shorts/Rab-V23cXhs
+34,tennis,player,Dimitrov,action,fan,meta,"Grigor Dimitrov Slow Motion Return Roland Garros 2022","DanTenn3000",https://youtube.com/shorts/KiGjQF0lB9A
+35,tennis,player,Anisimova,action,fan,meta,"Amanda Anisimova serve slow-mo US Open 2021","Grounds Pass Tennis",https://youtube.com/shorts/NwP_tF58qNw
+36,tennis,player,Zheng Qinwen,action,fan,meta,"Zheng Qinwen Serve Slow Motion","Nancy Lee Tennis",https://youtube.com/shorts/h3IN-MN9nBk
+37,tennis,player,Sinner,action;slowmo,broadcaster,meta,"Slow Motion Sinner Serve","Tennis TV",https://youtube.com/shorts/Ee63gpG-v5c
+38,tennis,player,Swiatek,action;slowmo,fan,meta,"Iga Swiatek Forehand Return Slow-Motion","Hit With Me - Tennis Media",https://youtube.com/shorts/PLVcii2Lguw
+39,tennis,player,Djokovic,action;slowmo,fan,meta,"Novak Djokovic Service In Slow Motion Miami 2025","Coach Paul Tennis Fit",https://youtube.com/shorts/jHcXQDu7z2o
+40,tennis,player,Federer,action;slowmo,fan,meta,"Roger Federer serve in slow motion ATP Finals","Tennis Ace",https://youtube.com/shorts/KgDZc5eSIWA
+41,tennis,player,Medvedev,action;slowmo,fan,meta,"Medvedev kick serve in slow motion Indian Wells","Jim Fawcette",https://youtube.com/shorts/1vz2RsxWqSo
+42,tennis,player,Rybakina,action;slowmo,fan,meta,"Amazing Rybakina slow motion backhands","TennisAcademy101",https://youtube.com/shorts/wsh_nNXbQ7E
+43,basketball,team,EuroLeague,action,official,meta,"Mike James scores 3-points","EUROLEAGUE BASKETBALL",https://youtube.com/shorts/IEjT91NfZ8w
+44,basketball,team,EuroLeague Women,action,official,meta,"ICE COLD","EuroLeague Women",https://youtube.com/shorts/uiDGAmMNVtg
+45,basketball,team,EuroLeague Women,action,official,meta,"No look dime","EuroLeague Women",https://youtube.com/shorts/kQPqPl-0-h8
+46,basketball,team,EuroLeague Women,action,official,meta,"Sloot doing Sloot things","EuroLeague Women",https://youtube.com/shorts/mCRHlqx1aQ8
+47,basketball,team,Memphis Grizzlies,slowmo,fan,meta,"Ja Morant Slow Motion vs Brooklyn Nets","BasketballCrew92",https://youtube.com/shorts/ZVzexyngRrI
+48,basketball,team,Zalgiris,dunk,fan,meta,"Put-back Dunk Shocks Zalgiris","BasketHead",https://youtube.com/shorts/6hRcSqsZU3g
+49,basketball,team,San Antonio Spurs,skills,fan,meta,"Wemby in Slow Mo","NBA Highlight Reels",https://youtube.com/shorts/YkKIvE70fc4
+50,basketball,team,Indiana Pacers,dunk,fan,meta,"Nesmith's Poster JAM in Slow Motion","Your YHANiverse",https://youtube.com/shorts/OVkCxNNMKp8
+51,basketball,team,Los Angeles Lakers,dunk;slowmo,fan,meta,"Lakers LeBron James Slow Motion Dunk","DBA",https://youtube.com/shorts/V7Q5SYwh3GU
+52,basketball,team,Golden State Warriors,action;slowmo,fan,meta,"Curry's Buzzer Beater in SLO-MO","Your YHANiverse",https://youtube.com/shorts/DnSWl6eHP70
+53,basketball,team,Boston Celtics,action;slowmo,fan,meta,"Slow Mo Game 2 Celtics vs Dallas finals","SportsLyte",https://youtube.com/shorts/FZQIAy2mBkk
+54,basketball,team,Boston Celtics,action;slowmo,fan,meta,"Jayson Tatum game winner on Giannis in slow motion","Legendary Amazing",https://youtube.com/shorts/uLFwLkxqIDw
+55,cs,team,G2,action,official,meta,"FIRST ACE of the tournament by r1nkle (G2)","BLAST Premier",https://youtube.com/shorts/z2BkhcXNluU
+56,cs,team,Spirit,action,official,meta,"sh1ro Wins a Crucial 1v2 Clutch","BLAST Premier CS2 Highlights",https://youtube.com/shorts/o_JSwP6617I
+57,cs,team,Falcons,action,official,meta,"ztr clutches a 1v2","ESL Counter-Strike Highlights",https://youtube.com/shorts/frFMJEgGg24
+58,cs,team,G2,action,official,meta,"m0NESY's filthy double with a wallbang noscope","ESL Counter-Strike Highlights",https://youtube.com/shorts/35FmGFRU14w
+59,cs,team,G2,action,official,meta,"r1nkle Does the Impossible with a Beautiful AWP Triple","BLAST Premier CS2 Highlights",https://youtube.com/shorts/vTUx-oOi9MA
+60,cs,team,Spirit,action,fan,meta,"donk INSANE 1v5 ACE vs HEROIC Shanghai Major 2024","ND Highlights",https://youtube.com/shorts/VWT18aYH8OY
+61,cs,team,G2,action,official,meta,"Famas in Hand r1nkle Takes the Entire Team","BLAST Premier CS2 Highlights",https://youtube.com/shorts/DHNKcGttBB8
+62,cs,team,MOUZ,action,official,meta,"MATYS Turns a Knife Kill into Free Money","BLAST Premier CS2 Highlights",https://youtube.com/shorts/78ikxm2JX50
+63,cs,team,Astralis,action,fan,meta,"Astralis vs Team Falcons BLAST Premier Spring 2024","TOP.NarezkaCS2",https://youtube.com/shorts/3rGwmIOIh9E
+64,cs,team,Spirit,action,fan,meta,"sh1ro dropped the gun and did this sneaky knife EWC","EWC Extra",https://youtube.com/shorts/Lj4ckfQLO7U
+65,cs,team,NAVI,action,official,meta,"HELLO It's Me - NAVI CS2 Shorts","NAVI CS2",https://youtube.com/shorts/TZYCR2DL2zQ
+66,cs,team,NAVI,action,official,meta,"s1mple what - NAVI CS2 Shorts","NAVI CS2",https://youtube.com/shorts/Sf3ZBLG-RDo
+67,cs,team,Vitality,action,fan,meta,"ZywOo ACE G2 vs Vitality Blast World Final 2024","CS2 Rampage",https://youtube.com/shorts/W-ZpWPJSEXY
+68,football,player,Mbappe,celebration;emotion,official,meta,"Kylian Mbappe reacts (close-up)","Kylian Mbappé",https://youtube.com/shorts/owX5gPgr2cI
+69,football,player,Mbappe,celebration;emotion,fan,meta,"Mbappe reaction when he lost the World Cup","Exotic_EDITZ",https://youtube.com/shorts/NTeiZBR9xoA
+70,football,player,Mbappe,celebration;emotion,fan,meta,"Mbappe peculiar crying goal celebration","Redis Turbo",https://youtube.com/shorts/xv4LR1zcwmI
+71,football,player,Mbappe,celebration;slowmo,fan,meta,"Mbappe Iconic Knee Slide Celebration","Rudro Editz",https://youtube.com/shorts/OlAd4iVBfd8
+72,football,player,Haaland,celebration;emotion,fan,meta,"Haaland Champions League Final celebration","enem user",https://youtube.com/shorts/ifVU3KYI_pM
+73,football,player,Haaland,entrance;emotion,broadcaster,meta,"Haaland's drastic new look vs Bournemouth","Stan Sport Football",https://youtube.com/shorts/PZrQkjfX3Uk
+74,football,player,Haaland,celebration,fan,meta,"Haaland Robot Celebration","The ULTRAS 90",https://youtube.com/shorts/f076LruX46Q
+75,football,player,Haaland,celebration,fan,meta,"Why Does Haaland Celebrate Like a Robot","Clash Football",https://youtube.com/shorts/OM5X_6haaeI
+76,football,player,De Bruyne,celebration;emotion,fan,meta,"De Bruyne Brought to Tears Having to Come Off","FootballTiktokz",https://youtube.com/shorts/TGJ0ZS22Img
+77,football,player,De Bruyne,celebration;emotion,fan,meta,"Goodbye KDB","Falcon Ae",https://youtube.com/shorts/SGIGVXImzek
+78,football,player,De Bruyne,goal,fan,meta,"De Bruyne goal no celebration","Footy PM",https://youtube.com/shorts/T2dxrWl4KeY
+79,football,player,De Bruyne,celebration,fan,meta,"Kevin De Bruyne First Goal + Celebration","DLS_editzz",https://youtube.com/shorts/cHZVM4W9n2A
+80,football,player,Lamine Yamal,celebration,official,meta,"Lamine Yamal shows how to celebrate a last minute goal","FC Barcelona",https://youtube.com/shorts/o1HlgSyRSQo
+81,football,player,Lamine Yamal,entrance;emotion,official,meta,"Lamine Yamal's Special Moment","Lamine Yamal",https://youtube.com/shorts/jKArGRX4v-w
+82,football,player,Lamine Yamal,celebration;slowmo,fan,meta,"Lamine celebrating in slow motion vs Saudi Arabia","Barca Connect",https://youtube.com/shorts/y5cSRaeHxZo
+83,football,player,Lamine Yamal,celebration;emotion,fan,meta,"Lamine Yamal in tears after being substituted","Barca Family Zone",https://youtube.com/shorts/001QcY47wF8
+84,football,player,Kane,skills,official,meta,"This is PURE ART (Harry Kane)","Bundesliga",https://youtube.com/shorts/ePvwqcbiPBM
+85,football,player,Kane,entrance;emotion,official,meta,"Harry Kane at Tottenham vs Bayern Munich transformation","Harry Kane Official",https://youtube.com/shorts/jlj0AntTI2c
+86,football,player,Kane,celebration;emotion,broadcaster,meta,"Harry Kane on hitting 200 goals for Spurs","Amazon Prime Video Sport",https://youtube.com/shorts/HkbhFYZMQlw
+87,football,player,Kane,celebration,fan,meta,"Harry Kane goal reaction Fulham 0-1 Tottenham","Tik-Tok Sport Compilation",https://youtube.com/shorts/jHUp8wmLogE
+88,football,player,Vini Jr,skills;slowmo,fan,meta,"Vini Goal vs Liverpool w Slow Motion","@nextgemballer",https://youtube.com/shorts/2m5R3O_LKpw
+89,tennis,player,Halep,action;slowmo,fan,meta,"Simona Halep serve in slow motion","ViewsoftheWorld",https://youtube.com/shorts/uLjWZCEoMGs
+90,basketball,team,EuroLeague,action,fan,meta,"Mike James Makes EuroLeague History","EverythingBasketball",https://youtube.com/shorts/8CXNktuwA4s
